@@ -7,12 +7,15 @@
 
 ## Today's Question (June 1st, 2024)
 ### Questions using Linear Data Structure
+|Participant|Time Complexity|Space Complexity|
+- Question
+|---|----|-----|
+|yeonguchoe|O(n)|O(n)|
+|minjikim19|||
+|suojae3|||
 
 ### Questions using Graph/Tree Data Structure
 
 
 
-
-
-## Solution of Participants
 
