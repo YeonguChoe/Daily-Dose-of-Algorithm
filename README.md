@@ -12,7 +12,7 @@
 > Please fill out time complexity and space compexity at the chart, if you don't mind.
 
 > [!IMPORTANT]
-> Posting your code is not mandatory. But feel free to post solution with comments on your folder, so that other people can get idea from your code. **So, Files you can modify is `README.md` and `files in your folder`, only.**
+> Posting your code is not mandatory. But feel free to post solution with comments on your folder, so that you can review your code. **So, Files you can modify is `README.md` and `files in your folder`, only.**
 
 ## Today's Question (June 1st, 2024)
 ### 🖥️ Questions using Linear Data Structure
