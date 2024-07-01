@@ -20,24 +20,14 @@
 #### LeetCode: Best Time to Buy And Sell Stock
 | Participant | Time Complexity | Space Complexity | Any Comment |
 | ----------- | --------------- | ---------------- | ----------- |
-| yeonguchoe  | O(1)            | O(1)             | Sample |
+| yeonguchoe  | O(n)            | O(1)             | Same as LeetCode editorial |
 | minjikim19  |                 |                  |             |
 | suojae3     | O(n)            | O(1)             |             |
 
 #### LeetCode: Reverse Linked List
 | Participant | Time Complexity | Space Complexity | Any Comment |
 | ----------- | --------------- | ---------------- | ----------- |
-| yeonguchoe  |                 |                  |             |
+| yeonguchoe  | O(n)                | O(1)                 | Solution Using 3 pointers            |
 | minjikim19  |                 |                  |             |
 | suojae3     | O(n)            | O(1)             |             |
-
-### 🌲 Questions using Graph/Tree Data Structure
-#### HackerRank: Roads and Libraries
-| Participant | Time Complexity | Space Complexity | Any Comment |
-| ----------- | --------------- | ---------------- | ----------- |
-| yeonguchoe  |                 |                  |             |
-| minjikim19  |                 |                  |             |
-| suojae3     |                 |                  |             |
-
-
 
