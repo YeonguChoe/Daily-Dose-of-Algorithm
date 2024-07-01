@@ -22,7 +22,7 @@
 | ----------- | --------------- | ---------------- | ----------- |
 | yeonguchoe  | O(1)            | O(1)             | Sample |
 | minjikim19  |                 |                  |             |
-| suojae3     |                 |                  |             |
+| suojae3     | O(n)            | O(1)             |             |
 
 #### LeetCode: Reverse Linked List
 | Participant | Time Complexity | Space Complexity | Any Comment |
