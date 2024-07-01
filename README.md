@@ -29,7 +29,7 @@
 | ----------- | --------------- | ---------------- | ----------- |
 | yeonguchoe  |                 |                  |             |
 | minjikim19  |                 |                  |             |
-| suojae3     |                 |                  |             |
+| suojae3     | O(n)            | O(1)             |             |
 
 ### 🌲 Questions using Graph/Tree Data Structure
 #### HackerRank: Roads and Libraries
