@@ -19,11 +19,12 @@
 
 - **[1. Two Sum](https://leetcode.com/problems/two-sum/description/)**
 
-| Participant | Time Complexity | Space Complexity | Any Comment |
-| ----------- | --------------- | ---------------- | ----------- |
-| yeonguchoe  |                 |                  |             |
-| minjikim19  |                 |                  |             |
-| suojae3     |                 |                  |             |
+| Participant    | Time Complexity | Space Complexity | Any Comment |
+| -------------- | --------------- | ---------------- | ----------- |
+| yeonguchoe     |                 |                  |             |
+| minjikim19     |                 |                  |             |
+| suojae3        |                 |                  |             |
+| deltawing71911 |                 |                  |             |
 
 - **[15. 3Sum](https://leetcode.com/problems/3sum/description/)**
 
