@@ -14,20 +14,32 @@
 > [!IMPORTANT]
 > Posting your code is not mandatory. But feel free to post solution with comments on your folder, so that you can review your code. **So, Files you can modify is `README.md` and `files in your folder`, only.**
 
-## Today's Question (July 1st, 2024)
+## Today's Question (July 2nd, 2024)
 ### 🖥️ Questions using Linear Data Structure
 
-#### LeetCode: Best Time to Buy And Sell Stock
+#### [1. Two Sum](https://leetcode.com/problems/two-sum/description/)
 | Participant | Time Complexity | Space Complexity | Any Comment |
 | ----------- | --------------- | ---------------- | ----------- |
-| yeonguchoe  | O(n)            | O(1)             | Same as LeetCode editorial |
+| yeonguchoe  |                 |                  |             |
 | minjikim19  |                 |                  |             |
-| suojae3     | O(n)            | O(1)             |             |
+| suojae3     |                 |                  |             |
 
-#### LeetCode: Reverse Linked List
+- [15. 3Sum](https://leetcode.com/problems/3sum/description/)
 | Participant | Time Complexity | Space Complexity | Any Comment |
 | ----------- | --------------- | ---------------- | ----------- |
-| yeonguchoe  | O(n)                | O(1)                 | Solution Using 3 pointers            |
+| yeonguchoe  |                 |                  |             |
 | minjikim19  |                 |                  |             |
-| suojae3     | O(n)            | O(1)             |             |
+| suojae3     |                 |                  |             |
 
+### Graph Problem
+- [417. Pacific Atlantic Water Flow](https://leetcode.com/problems/pacific-atlantic-water-flow/description/)
+| Participant | Time Complexity | Space Complexity | Any Comment |
+| ----------- | --------------- | ---------------- | ----------- |
+| yeonguchoe  |                 |                  |             |
+| minjikim19  |                 |                  |             |
+| suojae3     |                 |                  |             |
+
+
+### Previous Questions
+- 121. Best Time to Buy and Sell Stock
+- 206. Reverse Linked List
