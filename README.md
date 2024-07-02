@@ -17,7 +17,7 @@
 ## Today's Question (July 2nd, 2024)
 ### 🖥️ Questions using Linear Data Structure
 
-- [1. Two Sum](https://leetcode.com/problems/two-sum/description/)
+- **[1. Two Sum](https://leetcode.com/problems/two-sum/description/)**
 
 | Participant | Time Complexity | Space Complexity | Any Comment |
 | ----------- | --------------- | ---------------- | ----------- |
@@ -25,7 +25,7 @@
 | minjikim19  |                 |                  |             |
 | suojae3     |                 |                  |             |
 
-- [15. 3Sum](https://leetcode.com/problems/3sum/description/)
+- **[15. 3Sum](https://leetcode.com/problems/3sum/description/)**
 
 | Participant | Time Complexity | Space Complexity | Any Comment |
 | ----------- | --------------- | ---------------- | ----------- |
@@ -33,9 +33,9 @@
 | minjikim19  |                 |                  |             |
 | suojae3     |                 |                  |             |
 
-### Graph Problem
+### 🌲 Questions using Graph/Tree Data Structure
 
-- [417. Pacific Atlantic Water Flow](https://leetcode.com/problems/pacific-atlantic-water-flow/description/)
+- **[417. Pacific Atlantic Water Flow](https://leetcode.com/problems/pacific-atlantic-water-flow/description/)**
 
 | Participant | Time Complexity | Space Complexity | Any Comment |
 | ----------- | --------------- | ---------------- | ----------- |
