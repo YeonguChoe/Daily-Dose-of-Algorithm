@@ -21,7 +21,7 @@
 
 | Participant    | Time Complexity | Space Complexity | Any Comment |
 | -------------- | --------------- | ---------------- | ----------- |
-| yeonguchoe     |                 |                  |             |
+| yeonguchoe     |      O(n)           |    O(n)              |             |
 | minjikim19     |                 |                  |             |
 | suojae3        |                 |                  |             |
 | deltawing71911 |                 |                  |             |
@@ -30,7 +30,7 @@
 
 | Participant    | Time Complexity | Space Complexity | Any Comment |
 | -------------- | --------------- | ---------------- | ----------- |
-| yeonguchoe     |                 |                  |             |
+| yeonguchoe     |        O(n^2)         |      O(n)            |             |
 | minjikim19     |                 |                  |             |
 | suojae3        |                 |                  |             |
 | deltawing71911 |                 |                  |             |
