@@ -14,23 +14,23 @@
 > [!IMPORTANT]
 > Posting your code is not mandatory. But feel free to post solution with comments on your folder, so that you can review your code. **So, Files you can modify is `README.md` and `files in your folder`, only.**
 
-## Today's Question (July 3rd, 2024) - Continued from July 2nd, due to difficulty of graph problem.
+## Today's Question (July 4th, 2024)
 ### 🖥️ Questions using Linear Data Structure
 
-- **[1. Two Sum](https://leetcode.com/problems/two-sum/description/)**
+- **[33. Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array)**
 
 | Participant    | Time Complexity | Space Complexity | Any Comment |
 | -------------- | --------------- | ---------------- | ----------- |
-| yeonguchoe     |      O(n)           |    O(n)              |             |
+| yeonguchoe     |                 |                  |             |
 | minjikim19     |                 |                  |             |
 | suojae3        |                 |                  |             |
 | deltawing71911 |                 |                  |             |
 
-- **[15. 3Sum](https://leetcode.com/problems/3sum/description/)**
+- **[347. Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements)**
 
 | Participant    | Time Complexity | Space Complexity | Any Comment |
 | -------------- | --------------- | ---------------- | ----------- |
-| yeonguchoe     |        O(n^2)         |      O(n)            |             |
+| yeonguchoe     |                 |                  |             |
 | minjikim19     |                 |                  |             |
 | suojae3        |                 |                  |             |
 | deltawing71911 |                 |                  |             |
@@ -38,7 +38,7 @@
 
 ### 🌲 Questions using Graph/Tree Data Structure
 
-- **[417. Pacific Atlantic Water Flow](https://leetcode.com/problems/pacific-atlantic-water-flow/description/)**
+- **[200. Number of Islands](https://leetcode.com/problems/number-of-islands)**
 
 | Participant    | Time Complexity | Space Complexity | Any Comment |
 | -------------- | --------------- | ---------------- | ----------- |
@@ -54,3 +54,7 @@
 | ---------- | ------------------------------------------------------------------------------------------------- |
 | 121        | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) |
 | 206        | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/description/)             |
+| 1          | [Two Sum](https://leetcode.com/problems/two-sum/description/)                                     |
+| 15         | [3Sum](https://leetcode.com/problems/3sum/description/)                                           |
+
+
