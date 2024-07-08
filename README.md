@@ -14,10 +14,10 @@
 > [!IMPORTANT]
 > Posting your code is not mandatory. But feel free to post solution with comments on your folder, so that you can review your code. **So, Files you can modify is `README.md` and `files in your folder`, only.**
 
-## Today's Question (July 4th, 2024)
+## Today's Question (July 7th, 2024)
 ### 🖥️ Questions using Linear Data Structure
 
-- **[33. Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array)**
+- [Min Stack](https://leetcode.com/problems/min-stack/description/)
 
 | Participant    | Time Complexity | Space Complexity | Any Comment |
 | -------------- | --------------- | ---------------- | ----------- |
@@ -26,7 +26,7 @@
 | suojae3        |                 |                  |             |
 | deltawing71911 |                 |                  |             |
 
-- **[347. Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements)**
+- [Last Stone Weight](https://leetcode.com/problems/last-stone-weight/description/)
 
 | Participant    | Time Complexity | Space Complexity | Any Comment |
 | -------------- | --------------- | ---------------- | ----------- |
@@ -35,10 +35,15 @@
 | suojae3        |                 |                  |             |
 | deltawing71911 |                 |                  |             |
 
+- [K th largest eleemnt](https://leetcode.com/problems/kth-largest-element-in-a-stream/description/)
+| Participant    | Time Complexity | Space Complexity | Any Comment |
+| -------------- | --------------- | ---------------- | ----------- |
+| yeonguchoe     |                 |                  |             |
+| minjikim19     |                 |                  |             |
+| suojae3        |                 |                  |             |
+| deltawing71911 |                 |                  |             |
 
 ### 🌲 Questions using Graph/Tree Data Structure
-
-- **[200. Number of Islands](https://leetcode.com/problems/number-of-islands)**
 
 | Participant    | Time Complexity | Space Complexity | Any Comment |
 | -------------- | --------------- | ---------------- | ----------- |
