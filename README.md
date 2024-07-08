@@ -45,7 +45,7 @@
 | deltawing71911 |                 |                  |             |
 
 ### 🌲 Questions using Graph/Tree Data Structure
-
+- N/A
 | Participant    | Time Complexity | Space Complexity | Any Comment |
 | -------------- | --------------- | ---------------- | ----------- |
 | yeonguchoe     |                 |                  |             |
