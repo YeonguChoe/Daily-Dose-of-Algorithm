@@ -23,7 +23,7 @@
 | -------------- | --------------- | ---------------- | ----------- |
 | yeonguchoe     |                 |                  |             |
 | minjikim19     |                 |                  |             |
-| suojae3        |                 |                  |             |
+| suojae3        | O(n)            | O(1)             |             |
 | deltawing71911 |                 |                  |             |
 
 - [Last Stone Weight](https://leetcode.com/problems/last-stone-weight/description/)
@@ -32,7 +32,7 @@
 | -------------- | --------------- | ---------------- | ----------- |
 | yeonguchoe     |                 |                  |             |
 | minjikim19     |                 |                  |             |
-| suojae3        |                 |                  |             |
+| suojae3        | O(nlogn)        | O(n)             |             |
 | deltawing71911 |                 |                  |             |
 
 - [K th largest element](https://leetcode.com/problems/kth-largest-element-in-a-stream/description/)
