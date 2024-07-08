@@ -35,7 +35,7 @@
 | suojae3        |                 |                  |             |
 | deltawing71911 |                 |                  |             |
 
-- [K th largest eleemnt](https://leetcode.com/problems/kth-largest-element-in-a-stream/description/)
+- [K th largest element](https://leetcode.com/problems/kth-largest-element-in-a-stream/description/)
 
 | Participant    | Time Complexity | Space Complexity | Any Comment |
 | -------------- | --------------- | ---------------- | ----------- |
