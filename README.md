@@ -17,25 +17,25 @@
 ## Today's Question (July 7th, 2024)
 ### 🖥️ Questions using Linear Data Structure
 
-- [Min Stack](https://leetcode.com/problems/min-stack/description/)
+- [739. Daily Temperatures](https://leetcode.com/problems/daily-temperatures/description/)
 
 | Participant    | Time Complexity | Space Complexity | Any Comment |
 | -------------- | --------------- | ---------------- | ----------- |
 | yeonguchoe     |                 |                  |             |
 | minjikim19     |                 |                  |             |
-| suojae3        | O(n)            | O(1)             |             |
+| suojae3        |                 |                  |             |
 | deltawing71911 |                 |                  |             |
 
-- [Last Stone Weight](https://leetcode.com/problems/last-stone-weight/description/)
+- [215. Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/description/)
 
 | Participant    | Time Complexity | Space Complexity | Any Comment |
 | -------------- | --------------- | ---------------- | ----------- |
 | yeonguchoe     |                 |                  |             |
 | minjikim19     |                 |                  |             |
-| suojae3        | O(nlogn)        | O(n)             |             |
+| suojae3        |                 |                  |             |
 | deltawing71911 |                 |                  |             |
 
-- [K th largest element](https://leetcode.com/problems/kth-largest-element-in-a-stream/description/)
+- N/A
 
 | Participant    | Time Complexity | Space Complexity | Any Comment |
 | -------------- | --------------- | ---------------- | ----------- |
@@ -46,7 +46,7 @@
 
 ### 🌲 Questions using Graph/Tree Data Structure
 
-- N/A
+- [48. Rotate Image](https://leetcode.com/problems/rotate-image/description/)
 
 | Participant    | Time Complexity | Space Complexity | Any Comment |
 | -------------- | --------------- | ---------------- | ----------- |
@@ -58,11 +58,15 @@
 
 ## Previous Questions
 
-| Question # | Title                                                                                             |
-| ---------- | ------------------------------------------------------------------------------------------------- |
-| 121        | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) |
-| 206        | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/description/)             |
-| 1          | [Two Sum](https://leetcode.com/problems/two-sum/description/)                                     |
-| 15         | [3Sum](https://leetcode.com/problems/3sum/description/)                                           |
+| Question # | Title                                                                                              |
+| ---------- | -------------------------------------------------------------------------------------------------- |
+| 121        | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)  |
+| 206        | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/description/)              |
+| 1          | [Two Sum](https://leetcode.com/problems/two-sum/description/)                                      |
+| 15         | [3Sum](https://leetcode.com/problems/3sum/description/)                                            |
+| 155        | [Min Stack](https://leetcode.com/problems/min-stack/description/)                                  |
+| 1046       | [Last Stone Weight](https://leetcode.com/problems/last-stone-weight/description/)                  |
+| 703        | [K th largest element](https://leetcode.com/problems/kth-largest-element-in-a-stream/description/) |
+
 
 
