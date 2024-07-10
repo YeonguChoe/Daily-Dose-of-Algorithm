@@ -1,3 +1,6 @@
+// Time Complexity: O(n^2)
+// Space Complexity: O(1)
+
 void rotate(vector<vector<int>>& matrix)
 {
     int n = matrix.size();
