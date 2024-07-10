@@ -14,7 +14,7 @@
 > [!IMPORTANT]
 > Posting your code is not mandatory. But feel free to post solution with comments on your folder, so that you can review your code. **So, Files you can modify is `README.md` and `files in your folder`, only.**
 
-## Today's Question (July 7th, 2024)
+## Today's Question (July 9th, 2024)
 ### 🖥️ Questions using Linear Data Structure
 
 - [739. Daily Temperatures](https://leetcode.com/problems/daily-temperatures/description/)
