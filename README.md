@@ -14,20 +14,9 @@
 > [!IMPORTANT]
 > Posting your code is not mandatory. But feel free to post solution with comments on your folder, so that you can review your code. **So, Files you can modify is `README.md` and `files in your folder`, only.**
 
-## Today's Question (July 10th, 2024)
+## Today's Question (July 14th, 2024)
 ### 🖥️ Questions using Linear Data Structure
-
-- [134. Gas Station](https://leetcode.com/problems/gas-station/description/)
-
-| Participant    | Time Complexity | Space Complexity | Any Comment |
-| -------------- | --------------- | ---------------- | ----------- |
-| yeonguchoe     |                 |                  |             |
-| minjikim19     |                 |                  |             |
-| suojae3        |                 |                  |             |
-| deltawing71911 |                 |                  |             |
-
-- If you have LeetCode Premium: [252. Meeting Rooms](https://leetcode.com/problems/meeting-rooms/description/)
-- If you don't have LeetCode Premium: [252. Meeting Rooms](https://neetcode.io/problems/meeting-schedule)
+- [Binary Search](https://leetcode.com/problems/binary-search/description/)
 
 | Participant    | Time Complexity | Space Complexity | Any Comment |
 | -------------- | --------------- | ---------------- | ----------- |
@@ -36,8 +25,16 @@
 | suojae3        |                 |                  |             |
 | deltawing71911 |                 |                  |             |
 
-- If you have LeetCode Premium: [253. Meeting Rooms II](https://leetcode.com/problems/meeting-rooms-ii/description/)
-- If you don't have LeetCode Premium: [253. Meeting Rooms II](https://neetcode.io/problems/meeting-schedule-ii)
+- [Contain Duplicate](https://leetcode.com/problems/contains-duplicate/description/)
+
+| Participant    | Time Complexity | Space Complexity | Any Comment |
+| -------------- | --------------- | ---------------- | ----------- |
+| yeonguchoe     |                 |                  |             |
+| minjikim19     |                 |                  |             |
+| suojae3        |                 |                  |             |
+| deltawing71911 |                 |                  |             |
+
+- [Find Minimum in Rotated Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/description/)
 
 | Participant    | Time Complexity | Space Complexity | Any Comment |
 | -------------- | --------------- | ---------------- | ----------- |
@@ -73,4 +70,6 @@
 | 739        | [Daily Temperatures](https://leetcode.com/problems/daily-temperatures/description/)                           |
 | 215        | [Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/description/) |
 | 48         | [Rotate Image](https://leetcode.com/problems/rotate-image/description/)                                       |
+| 134        | [Gas Station](https://leetcode.com/problems/gas-station/description/)                                         |
+
 
