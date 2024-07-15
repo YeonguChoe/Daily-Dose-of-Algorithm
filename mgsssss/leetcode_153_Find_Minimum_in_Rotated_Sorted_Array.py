@@ -23,3 +23,26 @@ class Solution:
             q.rotate(1)
             if q[0] < q[-1]:
                 return q[0]
+
+
+'''
+이분 탐색 풀이법
+이 경우 시간복잡도가 O(logn) 으로 줄어든다.
+'''
+
+'''
+class Solution:
+    def findMin(self, nums: List[int]) -> int:
+        start = 1
+        end = len(nums) - 1
+
+        while start <= end:
+            mid = (start + end) // 2
+            if nums[mid-1] > nums[mid]:
+                return nums[mid]
+            elif nums[0] < nums[mid]:
+                start = mid + 1
+            else:
+                end = mid - 1
+        return nums[0]
+'''
