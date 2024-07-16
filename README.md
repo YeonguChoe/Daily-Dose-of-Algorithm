@@ -14,7 +14,7 @@
 > [!IMPORTANT]
 > Posting your code is not mandatory. But feel free to post solution with comments on your folder, so that you can review your code. **So, Files you can modify is `README.md` and `files in your folder`, only.**
 
-## Today's Question (Current time: <!-- TIME --> 2024-07-15 19:27:43 PST <!-- /TIME -->)
+## Today's Question (Current time: <!-- TIME --> 2024-07-15 19:27:43 PST<!-- /TIME -->)
 ### 🖥️ Questions using Linear Data Structure
 - [Binary Search](https://leetcode.com/problems/binary-search/description/)
 
@@ -58,18 +58,20 @@
 ## Previous Questions
 
 
-| Question # | Title                                                                                                         |
-| ---------- | ------------------------------------------------------------------------------------------------------------- |
-| 121        | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)             |
-| 206        | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/description/)                         |
-| 1          | [Two Sum](https://leetcode.com/problems/two-sum/description/)                                                 |
-| 15         | [3Sum](https://leetcode.com/problems/3sum/description/)                                                       |
-| 155        | [Min Stack](https://leetcode.com/problems/min-stack/description/)                                             |
-| 1046       | [Last Stone Weight](https://leetcode.com/problems/last-stone-weight/description/)                             |
-| 703        | [K th largest element](https://leetcode.com/problems/kth-largest-element-in-a-stream/description/)            |
-| 739        | [Daily Temperatures](https://leetcode.com/problems/daily-temperatures/description/)                           |
-| 215        | [Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/description/) |
-| 48         | [Rotate Image](https://leetcode.com/problems/rotate-image/description/)                                       |
-| 134        | [Gas Station](https://leetcode.com/problems/gas-station/description/)                                         |
-
+| Question # | Title                                                                                                             |
+| ---------- | ----------------------------------------------------------------------------------------------------------------- |
+| 121        | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)                 |
+| 206        | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/description/)                             |
+| 1          | [Two Sum](https://leetcode.com/problems/two-sum/description/)                                                     |
+| 15         | [3Sum](https://leetcode.com/problems/3sum/description/)                                                           |
+| 155        | [Min Stack](https://leetcode.com/problems/min-stack/description/)                                                 |
+| 1046       | [Last Stone Weight](https://leetcode.com/problems/last-stone-weight/description/)                                 |
+| 703        | [K th largest element](https://leetcode.com/problems/kth-largest-element-in-a-stream/description/)                |
+| 739        | [Daily Temperatures](https://leetcode.com/problems/daily-temperatures/description/)                               |
+| 215        | [Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/description/)     |
+| 48         | [Rotate Image](https://leetcode.com/problems/rotate-image/description/)                                           |
+| 134        | [Gas Station](https://leetcode.com/problems/gas-station/description/)                                             |
+| 704        | [Binary Search](https://leetcode.com/problems/binary-search/description/)                                         |
+| 217        | [Contain Duplicate](https://leetcode.com/problems/contains-duplicate/description/)                                |
+| 153        | [Find Minimum in Rotated Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/description/)  |
 
