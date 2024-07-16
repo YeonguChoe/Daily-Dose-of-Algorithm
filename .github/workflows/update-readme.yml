@@ -43,4 +43,5 @@ jobs:
           git config --global user.email 'github-actions@github.com'
           git add README.md
           git commit -m "Update README with current time and time left"
+          git pull --rebase
           git push
