@@ -11,11 +11,11 @@ jobs:
 
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v2
+        uses: actions/checkout@v3
 
       - name: Update README with current time
         run: |
-          current_time=$(date -u +"%Y-%m-%d %H:%M:%S UTC")
+          current_time=$(TZ="America/Los_Angeles" date +"%Y-%m-%d %H:%M:%S PST")
           sed -i "s/\(<!-- TIME -->\).*\(<!-- \/TIME -->\)/\1 $current_time \2/" README.md
 
       - name: Commit changes
@@ -24,4 +24,5 @@ jobs:
           git config --global user.email 'github-actions@github.com'
           git add README.md
           git commit -m "Update README with current time"
+          git pull --rebase
           git push
