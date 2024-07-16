@@ -24,7 +24,7 @@ jobs:
           current_minute=$(TZ="America/Los_Angeles" date +"%M")
           
           # Calculate remaining minutes in the day
-          minutes_left=$(( (23 - $current_hour) * 60 + (59 - $current_minute) ))
+          minutes_left=$(( (23 - $current_hour) * 60 + (60 - $current_minute) ))
           
           # Convert remaining minutes to hours and minutes
           hours_left=$(( $minutes_left / 60 ))
