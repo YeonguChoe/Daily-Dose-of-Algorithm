@@ -19,19 +19,21 @@ jobs:
           # Get the current time in PST
           current_time=$(TZ="America/Los_Angeles" date +"%Y-%m-%d %H:%M PST")
           
-          # Calculate the time left until midnight in PST
-          current_hour=$(TZ="America/Los_Angeles" date +"%H")
-          current_minute=$(TZ="America/Los_Angeles" date +"%M")
+          # Get the current timestamp in seconds since epoch
+          current_timestamp=$(TZ="America/Los_Angeles" date +%s)
           
-          # Calculate remaining minutes in the day
-          minutes_left=$(( (23 - $current_hour) * 60 + (60 - $current_minute) ))
+          # Get the timestamp for the next midnight in seconds since epoch
+          midnight_timestamp=$(TZ="America/Los_Angeles" date -d "tomorrow 00:00" +%s)
           
-          # Convert remaining minutes to hours and minutes
-          hours_left=$(( $minutes_left / 60 ))
-          remaining_minutes=$(( $minutes_left % 60 ))
+          # Calculate the difference in seconds
+          time_diff=$((midnight_timestamp - current_timestamp))
+          
+          # Convert the difference to hours and minutes
+          hours_left=$((time_diff / 3600))
+          minutes_left=$(( (time_diff % 3600) / 60 ))
           
           # Format the time left
-          time_left=$(printf "%02d:%02d" $hours_left $remaining_minutes)
+          time_left=$(printf "%02d:%02d" $hours_left $minutes_left)
 
           # Update the README file
           sed -i "s/\(<!-- TIME -->\).*\(<!-- \/TIME -->\)/\1 $current_time \2/" README.md
