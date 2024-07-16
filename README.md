@@ -17,47 +17,16 @@
 ## Today's Question (Current time: <!-- TIME --> 2024-07-15 20:15 PST <!-- /TIME -->)
 ⏰ **Time left for submitting daily challenges:** ⌛️<!-- TIME LEFT --> 03:44 <!-- /TIME LEFT --> ✨
 ### 🖥️ Questions using Linear Data Structure
-- [Binary Search](https://leetcode.com/problems/binary-search/description/)
+- [125. Valid Palindrome](https://leetcode.com/problems/valid-palindrome/description/)
 
-| Participant    | Time Complexity | Space Complexity | Any Comment |
-| -------------- | --------------- | ---------------- | ----------- |
-| yeonguchoe     |                 |                  |             |
-| minjikim19     |                 |                  |             |
-| suojae3        |                 |                  |             |
-| bingsoorim     |                 |                  |             |
-| mgsssss        |                 |                  |             |
+- [20. Valid Parentheses](https://leetcode.com/problems/valid-parentheses/description/)
 
-- [Contain Duplicate](https://leetcode.com/problems/contains-duplicate/description/)
+- [49. Group Anagrams](https://leetcode.com/problems/group-anagrams/description/)
 
-| Participant    | Time Complexity | Space Complexity | Any Comment |
-| -------------- | --------------- | ---------------- | ----------- |
-| yeonguchoe     |                 |                  |             |
-| minjikim19     |                 |                  |             |
-| suojae3        |                 |                  |             |
-| bingsoorim     |                 |                  |             |
-| mgsssss        |                 |                  |             |
-
-- [Find Minimum in Rotated Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/description/)
-
-| Participant    | Time Complexity | Space Complexity | Any Comment |
-| -------------- | --------------- | ---------------- | ----------- |
-| yeonguchoe     |                 |                  |             |
-| minjikim19     |                 |                  |             |
-| suojae3        |                 |                  |             |
-| bingsoorim     |                 |                  |             |
-| mgsssss        |                 |                  |             |
 
 ### 🌲 Questions using Graph/Tree Data Structure
 
 - [n/a]
-
-| Participant    | Time Complexity | Space Complexity | Any Comment |
-| -------------- | --------------- | ---------------- | ----------- |
-| yeonguchoe     |                 |                  |             |
-| minjikim19     |                 |                  |             |
-| suojae3        |                 |                  |             |
-| bingsoorim     |                 |                  |             |
-| mgsssss        |                 |                  |             |
 
 
 ## Previous Questions
@@ -77,6 +46,5 @@
 | 48         | [Rotate Image](https://leetcode.com/problems/rotate-image/description/)                                           |
 | 134        | [Gas Station](https://leetcode.com/problems/gas-station/description/)                                             |
 | 704        | [Binary Search](https://leetcode.com/problems/binary-search/description/)                                         |
-| 217        | [Contain Duplicate](https://leetcode.com/problems/contains-duplicate/description/)                                |
+| 217        | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/description/)                               |
 | 153        | [Find Minimum in Rotated Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/description/)  |
-
