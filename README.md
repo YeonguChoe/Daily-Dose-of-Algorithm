@@ -14,8 +14,8 @@
 > [!IMPORTANT]
 > Posting your code is not mandatory. But feel free to post solution with comments on your folder, so that you can review your code. **So, Files you can modify is `README.md` and `files in your folder`, only.**
 
-## Today's Question (Current time: <!-- TIME --> 2024-07-15 20:05 PST <!-- /TIME -->)
-⏰ **Time left for submitting daily challenges:** ⌛️<!-- TIME LEFT --> 03:54 <!-- /TIME LEFT --> ✨
+## Today's Question (Current time: <!-- TIME --> 2024-07-15 20:15 PST <!-- /TIME -->)
+⏰ **Time left for submitting daily challenges:** ⌛️<!-- TIME LEFT --> 03:44 <!-- /TIME LEFT --> ✨
 ### 🖥️ Questions using Linear Data Structure
 - [Binary Search](https://leetcode.com/problems/binary-search/description/)
 
