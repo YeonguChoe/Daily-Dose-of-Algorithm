@@ -39,9 +39,13 @@ jobs:
 
       - name: Commit changes
         run: |
-          git config --global user.name 'github-actions'
-          git config --global user.email 'github-actions@github.com'
-          git add README.md
-          git rebase --continue
-          git commit -m "Update README with current time and time left"
-          git push
+          if git diff --exit-code; then
+            echo "No changes to commit."
+            exit 0
+          else
+            git config --global user.name 'github-actions'
+            git config --global user.email 'github-actions@github.com'
+            git add README.md
+            git commit -m "Update README with current time and time left"
+            git push origin main
+          fi
