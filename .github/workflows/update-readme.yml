@@ -1,0 +1,27 @@
+name: Update README
+
+on:
+  schedule:
+    - cron: '0 * * * *'  # Runs every hour
+  workflow_dispatch:  # Allows manual triggering
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v2
+
+      - name: Update README with current time
+        run: |
+          current_time=$(date -u +"%Y-%m-%d %H:%M:%S UTC")
+          sed -i "s/\(<!-- TIME -->\).*\(<!-- \/TIME -->\)/\1 $current_time \2/" README.md
+
+      - name: Commit changes
+        run: |
+          git config --global user.name 'github-actions'
+          git config --global user.email 'github-actions@github.com'
+          git add README.md
+          git commit -m "Update README with current time"
+          git push
