@@ -14,7 +14,8 @@
 > [!IMPORTANT]
 > Posting your code is not mandatory. But feel free to post solution with comments on your folder, so that you can review your code. **So, Files you can modify is `README.md` and `files in your folder`, only.**
 
-## Today's Question (Current time: <!-- TIME --> 2024-07-15 19:27:43 PST<!-- /TIME -->)
+## Today's Question (Current time: <!-- TIME --> 2024-07-15 19:27 PST<!-- /TIME -->)
+⏰ **Time left for submitting daily challenges:** ⌛️<!-- TIME LEFT --> 04:32<!-- /TIME LEFT --> ✨
 ### 🖥️ Questions using Linear Data Structure
 - [Binary Search](https://leetcode.com/problems/binary-search/description/)
 
@@ -23,7 +24,8 @@
 | yeonguchoe     |                 |                  |             |
 | minjikim19     |                 |                  |             |
 | suojae3        |                 |                  |             |
-| deltawing71911 |                 |                  |             |
+| bingsoorim     |                 |                  |             |
+| mgsssss        |                 |                  |             |
 
 - [Contain Duplicate](https://leetcode.com/problems/contains-duplicate/description/)
 
@@ -32,7 +34,8 @@
 | yeonguchoe     |                 |                  |             |
 | minjikim19     |                 |                  |             |
 | suojae3        |                 |                  |             |
-| deltawing71911 |                 |                  |             |
+| bingsoorim     |                 |                  |             |
+| mgsssss        |                 |                  |             |
 
 - [Find Minimum in Rotated Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/description/)
 
@@ -41,18 +44,20 @@
 | yeonguchoe     |                 |                  |             |
 | minjikim19     |                 |                  |             |
 | suojae3        |                 |                  |             |
-| deltawing71911 |                 |                  |             |
+| bingsoorim     |                 |                  |             |
+| mgsssss        |                 |                  |             |
 
 ### 🌲 Questions using Graph/Tree Data Structure
 
-
+- [n/a]
 
 | Participant    | Time Complexity | Space Complexity | Any Comment |
 | -------------- | --------------- | ---------------- | ----------- |
 | yeonguchoe     |                 |                  |             |
 | minjikim19     |                 |                  |             |
 | suojae3        |                 |                  |             |
-| deltawing71911 |                 |                  |             |
+| bingsoorim     |                 |                  |             |
+| mgsssss        |                 |                  |             |
 
 
 ## Previous Questions
