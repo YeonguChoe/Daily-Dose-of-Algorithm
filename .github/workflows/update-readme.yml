@@ -16,14 +16,31 @@ jobs:
 
       - name: Update README with current time
         run: |
-          current_time=$(TZ="America/Los_Angeles" date +"%Y-%m-%d %H:%M:%S PST")
+          # Get the current time in PST
+          current_time=$(TZ="America/Los_Angeles" date +"%Y-%m-%d %H:%M PST")
+          
+          # Calculate the time left until midnight in PST
+          current_hour=$(TZ="America/Los_Angeles" date +"%H")
+          current_minute=$(TZ="America/Los_Angeles" date +"%M")
+          
+          # Calculate remaining minutes in the day
+          minutes_left=$(( (23 - $current_hour) * 60 + (59 - $current_minute) ))
+          
+          # Convert remaining minutes to hours and minutes
+          hours_left=$(( $minutes_left / 60 ))
+          remaining_minutes=$(( $minutes_left % 60 ))
+          
+          # Format the time left
+          time_left=$(printf "%02d:%02d" $hours_left $remaining_minutes)
+
+          # Update the README file
           sed -i "s/\(<!-- TIME -->\).*\(<!-- \/TIME -->\)/\1 $current_time \2/" README.md
+          sed -i "s/\(<!-- TIME LEFT -->\).*\(<!-- \/TIME LEFT -->\)/\1 $time_left \2/" README.md
 
       - name: Commit changes
         run: |
           git config --global user.name 'github-actions'
           git config --global user.email 'github-actions@github.com'
           git add README.md
-          git commit -m "Update README with current time"
-          git pull --rebase
+          git commit -m "Update README with current time and time left"
           git push
