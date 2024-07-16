@@ -15,7 +15,7 @@
 > Posting your code is not mandatory. But feel free to post solution with comments on your folder, so that you can review your code. **So, Files you can modify is `README.md` and `files in your folder`, only.**
 
 ## Today's Question (July 14th, 2024)
-# Current time: <!-- TIME -->2024-07-15 12:00:00 UTC<!-- /TIME -->
+# Current time: <!-- TIME --> 2024-07-15 19:27:43 PST <!-- /TIME -->
 ### 🖥️ Questions using Linear Data Structure
 - [Binary Search](https://leetcode.com/problems/binary-search/description/)
 
