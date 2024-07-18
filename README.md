@@ -14,8 +14,8 @@
 > [!IMPORTANT]
 > Posting your code is not mandatory. But feel free to post solution with comments on your folder, so that you can review your code. **So, Files you can modify is `README.md` and `files in your folder`, only.**
 
-## Today's Question (Current time: <!-- TIME --> 2024-07-18 12:36 PST <!-- /TIME -->)
-⏰ **Time left for submitting daily challenges:** ⌛️<!-- TIME LEFT --> 11:24 <!-- /TIME LEFT --> ✨
+## Today's Question (Current time: <!-- TIME --> 2024-07-18 13:36 PST <!-- /TIME -->)
+⏰ **Time left for submitting daily challenges:** ⌛️<!-- TIME LEFT --> 10:23 <!-- /TIME LEFT --> ✨
 ### 🖥️ Questions using Linear Data Structure
 
 
