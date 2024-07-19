@@ -17,14 +17,13 @@
 ## Today's Question (Current time: <!-- TIME --> 2024-07-18 20:38 PST <!-- /TIME -->)
 ⏰ **Time left for submitting daily challenges:** ⌛️<!-- TIME LEFT --> 03:21 <!-- /TIME LEFT --> ✨
 ### 🖥️ Questions using Linear Data Structure
-
-
-
-### 🌲 Questions using Graph/Tree Data Structure
-
 - [424. Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/description/)
 - [3. Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/description/)
 - [844. Backspace String Compare](https://leetcode.com/problems/backspace-string-compare/description/)
+
+### 🌲 Questions using Graph/Tree Data Structure
+
+- [n/a]
 
 ## Previous Questions
 
