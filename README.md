@@ -22,9 +22,9 @@
 
 ### 🌲 Questions using Graph/Tree Data Structure
 
-- [111. Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/)
-- [62. Unique Paths](https://leetcode.com/problems/unique-paths/)
-- [22. Generate Parentheses](https://leetcode.com/problems/generate-parentheses/description/)
+- [424. Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/description/)
+- [3. Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/description/)
+- [844. Backspace String Compare](https://leetcode.com/problems/backspace-string-compare/description/)
 
 ## Previous Questions
 
@@ -47,6 +47,9 @@
 | 125        | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/description/)                                  |
 | 20         | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/description/)                                |
 | 49         | [Group Anagrams](https://leetcode.com/problems/group-anagrams/description/)                                      |
-| 543        | [Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/description/)
-|104         | [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/description/)
-|112         | [Path Sum](https://leetcode.com/problems/path-sum/description/)
+| 543        | [Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/description/)                    |
+| 104        | [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/description/)          |
+| 112        | [Path Sum](https://leetcode.com/problems/path-sum/description/)                                                  |
+| 111        | [Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/)                 |
+| 62         | [Unique Paths](https://leetcode.com/problems/unique-paths/)                                                  |
+| 22         | [Generate Parentheses](https://leetcode.com/problems/generate-parentheses/description/)                      |
