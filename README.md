@@ -14,12 +14,12 @@
 > [!IMPORTANT]
 > Posting your code is not mandatory. But feel free to post solution with comments on your folder, so that you can review your code. **So, Files you can modify is `README.md` and `files in your folder`, only.**
 
-## Today's Question (Current time: <!-- TIME --> 2024-07-22 04:37 PST <!-- /TIME -->)
-⏰ **Time left for submitting daily challenges:** ⌛️<!-- TIME LEFT --> 19:22 <!-- /TIME LEFT --> ✨
+## Today's Question (Current time: <!-- TIME --> 2024-07-22 20:42 KST <!-- /TIME -->)
+⏰ **Time left for submitting daily challenges:** ⌛️<!-- TIME LEFT --> 05:09 <!-- /TIME LEFT --> ✨
 ### 🖥️ Questions using Linear Data Structure
-- [424. Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/description/)
-- [3. Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/description/)
-- [844. Backspace String Compare](https://leetcode.com/problems/backspace-string-compare/description/)
+- [141. Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/description/)
+- [122. Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/description/)
+- [6. Zigzag Conversion](https://leetcode.com/problems/zigzag-conversion/description/)
 
 ### 🌲 Questions using Graph/Tree Data Structure
 
@@ -52,3 +52,6 @@
 | 111        | [Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/)                 |
 | 62         | [Unique Paths](https://leetcode.com/problems/unique-paths/)                                                  |
 | 22         | [Generate Parentheses](https://leetcode.com/problems/generate-parentheses/description/)                      |
+| 424        | [Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/description/) |
+| 3           | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/description/) |
+| 844        | [Backspace String Compare](https://leetcode.com/problems/backspace-string-compare/description/) |
