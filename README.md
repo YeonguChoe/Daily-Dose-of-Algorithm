@@ -14,8 +14,8 @@
 > [!IMPORTANT]
 > Posting your code is not mandatory. But feel free to post solution with comments on your folder, so that you can review your code. **So, Files you can modify is `README.md` and `files in your folder`, only.**
 
-## Today's Question (Current time: <!-- TIME --> 2024-07-22 07:37 PST <!-- /TIME -->)
-⏰ **Time left for submitting daily challenges:** ⌛️<!-- TIME LEFT --> 16:22 <!-- /TIME LEFT --> ✨
+## Today's Question (Current time: <!-- TIME --> 2024-07-22 08:37 PST <!-- /TIME -->)
+⏰ **Time left for submitting daily challenges:** ⌛️<!-- TIME LEFT --> 15:22 <!-- /TIME LEFT --> ✨
 ### 🖥️ Questions using Linear Data Structure
 - [141. Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/description/)
 - [122. Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/description/)
