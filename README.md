@@ -17,9 +17,9 @@
 ## Today's Question (Current time: <!-- TIME --> 2024-07-23 04:36 PST <!-- /TIME -->)
 ⏰ **Time left for submitting daily challenges:** ⌛️<!-- TIME LEFT --> 19:23 <!-- /TIME LEFT --> ✨
 ### 🖥️ Questions using Linear Data Structure
-- [141. Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/description/)
-- [122. Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/description/)
-- [6. Zigzag Conversion](https://leetcode.com/problems/zigzag-conversion/description/)
+- [7. Reverse Integer](https://leetcode.com/problems/reverse-integer/description/)
+- [8. String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/description/) 
+- [11. Container With Most Water](https://leetcode.com/problems/container-with-most-water/description/)
 
 ### 🌲 Questions using Graph/Tree Data Structure
 
@@ -29,6 +29,9 @@
 
 | Question # | Title                                                                                                            |
 | ---------- | ---------------------------------------------------------------------------------------------------------------- |
+| 141        | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/description/)                                |
+| 122        | [Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/description/)|
+| 6          | [Zigzag Conversion](https://leetcode.com/problems/zigzag-conversion/description/))                               |
 | 121        | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)                |
 | 206        | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/description/)                            |
 | 1          | [Two Sum](https://leetcode.com/problems/two-sum/description/)                                                    |
