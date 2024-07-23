@@ -31,7 +31,7 @@
 | ---------- | ---------------------------------------------------------------------------------------------------------------- |
 | 141        | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/description/)                                |
 | 122        | [Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/description/)|
-| 6          | [Zigzag Conversion](https://leetcode.com/problems/zigzag-conversion/description/))                               |
+| 6          | [Zigzag Conversion](https://leetcode.com/problems/zigzag-conversion/description/)                                |
 | 121        | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)                |
 | 206        | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/description/)                            |
 | 1          | [Two Sum](https://leetcode.com/problems/two-sum/description/)                                                    |
