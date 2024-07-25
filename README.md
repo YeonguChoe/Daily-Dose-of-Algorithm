@@ -14,8 +14,8 @@
 > [!IMPORTANT]
 > Posting your code is not mandatory. But feel free to post solution with comments on your folder, so that you can review your code. **So, Files you can modify is `README.md` and `files in your folder`, only.**
 
-## Today's Question (Current time: <!-- TIME --> 2024-07-24 19:48 PST <!-- /TIME -->)
-⏰ **Time left for submitting daily challenges:** ⌛️<!-- TIME LEFT --> 04:11 <!-- /TIME LEFT --> ✨
+## Today's Question (Current time: <!-- TIME --> 2024-07-24 20:37 PST <!-- /TIME -->)
+⏰ **Time left for submitting daily challenges:** ⌛️<!-- TIME LEFT --> 03:22 <!-- /TIME LEFT --> ✨
 ### 🖥️ Questions using Linear Data Structure
 - [7. Reverse Integer](https://leetcode.com/problems/reverse-integer/description/)
 - [8. String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/description/) 
