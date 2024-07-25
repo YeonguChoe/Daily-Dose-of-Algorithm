@@ -14,12 +14,12 @@
 > [!IMPORTANT]
 > Posting your code is not mandatory. But feel free to post solution with comments on your folder, so that you can review your code. **So, Files you can modify is `README.md` and `files in your folder`, only.**
 
-## Today's Question (Current time: <!-- TIME --> 2024-07-25 04:36 PST <!-- /TIME -->)
+## Today's Question (Current time: <!-- TIME --> 2024-07-25 21:33 KST <!-- /TIME -->)
 ⏰ **Time left for submitting daily challenges:** ⌛️<!-- TIME LEFT --> 19:23 <!-- /TIME LEFT --> ✨
 ### 🖥️ Questions using Linear Data Structure
-- [7. Reverse Integer](https://leetcode.com/problems/reverse-integer/description/)
-- [8. String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/description/) 
-- [11. Container With Most Water](https://leetcode.com/problems/container-with-most-water/description/)
+- [56. Merge Intervals](https://leetcode.com/problems/merge-intervals/description/)
+- [236. Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/description/) 
+- [1472. Design Browser History](https://leetcode.com/problems/design-browser-history/description/)
 
 ### 🌲 Questions using Graph/Tree Data Structure
 
@@ -58,3 +58,6 @@
 | 424        | [Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/description/) |
 | 3           | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/description/) |
 | 844        | [Backspace String Compare](https://leetcode.com/problems/backspace-string-compare/description/) |
+| 7          | [Reverse Integer](https://leetcode.com/problems/reverse-integer/description/) |
+| 8          | [String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/description/) |
+| 11         | [Container With Most Water](https://leetcode.com/problems/container-with-most-water/description/) |
