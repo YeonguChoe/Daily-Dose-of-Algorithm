@@ -17,9 +17,9 @@
 ## Today's Question (Current time: <!-- TIME --> 2024-07-26 10:36 PST <!-- /TIME -->)
 ⏰ **Time left for submitting daily challenges:** ⌛️<!-- TIME LEFT --> 13:23 <!-- /TIME LEFT --> ✨
 ### 🖥️ Questions using Linear Data Structure
-- [56. Merge Intervals](https://leetcode.com/problems/merge-intervals/description/)
-- [236. Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/description/) 
-- [1472. Design Browser History](https://leetcode.com/problems/design-browser-history/description/)
+- [118. Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/description/)
+- [17. Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/description//) 
+- [162. Find Peak Element](https://leetcode.com/problems/find-peak-element/description//)
 
 ### 🌲 Questions using Graph/Tree Data Structure
 
@@ -29,6 +29,9 @@
 
 | Question # | Title                                                                                                            |
 | ---------- | ---------------------------------------------------------------------------------------------------------------- |
+| 56        | [Merge Intervals](https://leetcode.com/problems/merge-intervals/description/)                                     |
+| 236        | [Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/description/) |
+| 1472        | [Design Browser History](https://leetcode.com/problems/design-browser-history/description/)                     |
 | 141        | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/description/)                                |
 | 122        | [Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/description/)|
 | 6          | [Zigzag Conversion](https://leetcode.com/problems/zigzag-conversion/description/)                                |
