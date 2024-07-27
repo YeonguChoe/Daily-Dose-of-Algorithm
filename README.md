@@ -29,9 +29,6 @@
 
 | Question # | Title                                                                                                            |
 | ---------- | ---------------------------------------------------------------------------------------------------------------- |
-| 56        | [Merge Intervals](https://leetcode.com/problems/merge-intervals/description/)                                     |
-| 236        | [Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/description/) |
-| 1472        | [Design Browser History](https://leetcode.com/problems/design-browser-history/description/)                     |
 | 141        | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/description/)                                |
 | 122        | [Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/description/)|
 | 6          | [Zigzag Conversion](https://leetcode.com/problems/zigzag-conversion/description/)                                |
@@ -64,3 +61,6 @@
 | 7          | [Reverse Integer](https://leetcode.com/problems/reverse-integer/description/) |
 | 8          | [String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/description/) |
 | 11         | [Container With Most Water](https://leetcode.com/problems/container-with-most-water/description/) |
+| 56        | [Merge Intervals](https://leetcode.com/problems/merge-intervals/description/)                                     |
+| 236        | [Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/description/) |
+| 1472        | [Design Browser History](https://leetcode.com/problems/design-browser-history/description/)                     |
