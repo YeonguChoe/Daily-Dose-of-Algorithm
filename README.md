@@ -16,12 +16,11 @@
 
 ## Today's Question (Current time: <!-- TIME --> 2024-07-29 13:36 PST <!-- /TIME -->)
 ⏰ **Time left for submitting daily challenges:** ⌛️<!-- TIME LEFT --> 10:23 <!-- /TIME LEFT --> ✨
-### 🖥️ Questions using Linear Data Structure
-- [n/a]
+### 🖥️ Problem list
+- [Sum of Two Integers](https://leetcode.com/problems/sum-of-two-integers/description/)
+- [Reverse Bits](https://leetcode.com/problems/reverse-bits/description/)
+- [Counting Bits](https://leetcode.com/problems/counting-bits/description/)
 
-### 🌲 Questions using Graph/Tree Data Structure
-
-- [n/a]
 
 ## Previous Questions
 
