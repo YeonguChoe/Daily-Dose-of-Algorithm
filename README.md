@@ -14,8 +14,8 @@
 > [!IMPORTANT]
 > Posting your code is not mandatory. But feel free to post solution with comments on your folder, so that you can review your code. **So, Files you can modify is `README.md` and `files in your folder`, only.**
 
-## Today's Question (Current time: <!-- TIME --> 2024-07-30 10:35 PST <!-- /TIME -->)
-⏰ **Time left for submitting daily challenges:** ⌛️<!-- TIME LEFT --> 13:24 <!-- /TIME LEFT --> ✨
+## Today's Question (Current time: <!-- TIME --> 2024-07-30 11:39 PST <!-- /TIME -->)
+⏰ **Time left for submitting daily challenges:** ⌛️<!-- TIME LEFT --> 12:20 <!-- /TIME LEFT --> ✨
 ### 🖥️ Problem list
 - [Sum of Two Integers](https://leetcode.com/problems/sum-of-two-integers/description/)
 - [Reverse Bits](https://leetcode.com/problems/reverse-bits/description/)
