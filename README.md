@@ -17,9 +17,9 @@
 ## Today's Question (Current time: <!-- TIME --> 2024-07-30 20:37 PST <!-- /TIME -->)
 ⏰ **Time left for submitting daily challenges:** ⌛️<!-- TIME LEFT --> 03:22 <!-- /TIME LEFT --> ✨
 ### 🖥️ Problem list
-- [Sum of Two Integers](https://leetcode.com/problems/sum-of-two-integers/description/)
-- [Reverse Bits](https://leetcode.com/problems/reverse-bits/description/)
-- [Counting Bits](https://leetcode.com/problems/counting-bits/description/)
+- 
+- 
+- 
 
 
 ## Previous Questions
@@ -64,3 +64,6 @@
 | 118        | [Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/description/)                                                            |
 | 17         | [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/description//)                  |
 | 162        | [Find Peak Element](https://leetcode.com/problems/find-peak-element/description//)                                                          |
+| 371        | [Sum of Two Integers](https://leetcode.com/problems/sum-of-two-integers/description/)                                                       |
+| 190        | [Reverse Bits](https://leetcode.com/problems/reverse-bits/description/)                                                                     |
+| 338        | [Counting Bits](https://leetcode.com/problems/counting-bits/description/)                                                                   |
