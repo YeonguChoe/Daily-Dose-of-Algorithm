@@ -17,10 +17,9 @@
 ## Today's Question (Current time: <!-- TIME --> 2024-07-30 20:37 PST <!-- /TIME -->)
 ⏰ **Time left for submitting daily challenges:** ⌛️<!-- TIME LEFT --> 03:22 <!-- /TIME LEFT --> ✨
 ### 🖥️ Problem list
-- 
-- 
-- 
-
+- [2285. Maximum Total Importance of Roads](https://leetcode.com/problems/maximum-total-importance-of-roads/description/)
+- [2661. First Completely Painted Row or Column](https://leetcode.com/problems/first-completely-painted-row-or-column/description/)
+- [874. Walking Robot Simulation](https://leetcode.com/problems/walking-robot-simulation/description/)
 
 ## Previous Questions
 
