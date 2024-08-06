@@ -14,8 +14,8 @@
 > [!IMPORTANT]
 > Posting your code is not mandatory. But feel free to post solution with comments on your folder, so that you can review your code. **So, Files you can modify is `README.md` and `files in your folder`, only.**
 
-## Today's Question (Current time: <!-- TIME --> 2024-08-05 22:36 PST <!-- /TIME -->)
-⏰ **Time left for submitting daily challenges:** ⌛️<!-- TIME LEFT --> 01:23 <!-- /TIME LEFT --> ✨
+## Today's Question (Current time: <!-- TIME --> 2024-08-05 23:42 PST <!-- /TIME -->)
+⏰ **Time left for submitting daily challenges:** ⌛️<!-- TIME LEFT --> 00:17 <!-- /TIME LEFT --> ✨
 ### 🖥️ Problem list
 - [58. Length of Last Word](https://leetcode.com/problems/length-of-last-word/description/)
 - [54. Spiral Matrix](https://leetcode.com/problems/spiral-matrix/description/)
