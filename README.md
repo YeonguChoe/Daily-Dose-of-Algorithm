@@ -17,7 +17,9 @@
 ## Today's Question (Current time: <!-- TIME --> 2024-08-05 22:36 PST <!-- /TIME -->)
 ⏰ **Time left for submitting daily challenges:** ⌛️<!-- TIME LEFT --> 01:23 <!-- /TIME LEFT --> ✨
 ### 🖥️ Problem list
-
+- [58. Length of Last Word](https://leetcode.com/problems/length-of-last-word/description/)
+- [54. Spiral Matrix](https://leetcode.com/problems/spiral-matrix/description/)
+- [133. Clone Graph](https://leetcode.com/problems/clone-graph/description/)
 
 ## Previous Questions
 
