@@ -17,11 +17,12 @@
 ## Today's Question (Current time: <!-- TIME --> 2024-08-07 11:40 PST <!-- /TIME -->)
 ⏰ **Time left for submitting daily challenges:** ⌛️<!-- TIME LEFT --> 12:19 <!-- /TIME LEFT --> ✨
 ### 🖥️ Problem list
-- [58. Length of Last Word](https://leetcode.com/problems/length-of-last-word/description/)
-- [54. Spiral Matrix](https://leetcode.com/problems/spiral-matrix/description/)
-- [133. Clone Graph](https://leetcode.com/problems/clone-graph/description/)
+
 
 ## Previous Questions
+- [200. Number of Islands](https://leetcode.com/problems/number-of-islands/description/)
+- [1466. Reorder Routes to Make All Paths Lead to the City Zero](https://leetcode.com/problems/reorder-routes-to-make-all-paths-lead-to-the-city-zero/description/)
+- [994. Rotting Oranges](https://leetcode.com/problems/rotting-oranges/description/)
 
 | Question # | Title                                                                                                                                       |
 | ---------- | ------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -69,3 +70,6 @@
 | 2285       | [Maximum Total Importance of Roads](https://leetcode.com/problems/maximum-total-importance-of-roads/description/)                           |
 | 2661       | [First Completely Painted Row or Column](https://leetcode.com/problems/first-completely-painted-row-or-column/description/)                 |
 | 874        | [Walking Robot Simulation](https://leetcode.com/problems/walking-robot-simulation/description/)                                             |
+| 58         | [Length of Last Word](https://leetcode.com/problems/length-of-last-word/description/)                                                       |
+| 54         | [54. Spiral Matrix](https://leetcode.com/problems/spiral-matrix/description/)                                                               |
+| 133        | [133. Clone Graph](https://leetcode.com/problems/clone-graph/description/)                                                                  |
