@@ -14,8 +14,8 @@
 > [!IMPORTANT]
 > Posting your code is not mandatory. But feel free to post solution with comments on your folder, so that you can review your code. **So, Files you can modify is `README.md` and `files in your folder`, only.**
 
-## Today's Question (Current time: <!-- TIME --> 2024-08-11 13:37 PST <!-- /TIME -->)
-⏰ **Time left for submitting daily challenges:** ⌛️<!-- TIME LEFT --> 10:22 <!-- /TIME LEFT --> ✨
+## Today's Question (Current time: <!-- TIME --> 2024-08-11 14:36 PST <!-- /TIME -->)
+⏰ **Time left for submitting daily challenges:** ⌛️<!-- TIME LEFT --> 09:23 <!-- /TIME LEFT --> ✨
 ### 🖥️ Problem list
 - [70. Climbing Stairs](https://leetcode.com/problems/climbing-stairs/description/): Amazon
 - [518. Coin Change II](https://leetcode.com/problems/coin-change-ii/description/): Microsoft
