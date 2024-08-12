@@ -16,7 +16,7 @@ int climbStairs(int n) {
 }
 
 
-// Dynamic Programming Version
+// Dynamic Programming 버전
 // Time complexity: O(n) 왜냐하면, decision 트리를 돌때, 0,1,2,3까지 memoization에 저장 했으면, 그때 부터는 바로 호출 할수 있음.
 // Space complexity: O(n) 왜냐하면, 콜스택 깊이가 최대 height이기도 하고, memoization 배열의 크기가 n+1이기 때문.
 int ways_to_make_reamining(int remaining, int goal, int* memoization) {
