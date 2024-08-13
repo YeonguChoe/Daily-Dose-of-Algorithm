@@ -1,53 +1,53 @@
-name: Update README
+# name: Update README
 
-on:
-  schedule:
-    - cron: '30 * * * *'  # runs at the 30th minute of every hour
-  workflow_dispatch:  # Allows manual triggering
+# on:
+#   schedule:
+#     - cron: '30 * * * *'  # runs at the 30th minute of every hour
+#   workflow_dispatch:  # Allows manual triggering
 
-jobs:
-  update-readme:
-    permissions: write-all
-    runs-on: ubuntu-latest
+# jobs:
+#   update-readme:
+#     permissions: write-all
+#     runs-on: ubuntu-latest
 
-    steps:
-      - name: Checkout repository
-        uses: actions/checkout@v3
+#     steps:
+#       - name: Checkout repository
+#         uses: actions/checkout@v3
 
-      - name: Update README with current time
-        run: |
-          # Get the current time in PST
-          current_time=$(TZ="America/Los_Angeles" date +"%Y-%m-%d %H:%M PST")
+#       - name: Update README with current time
+#         run: |
+#           # Get the current time in PST
+#           current_time=$(TZ="America/Los_Angeles" date +"%Y-%m-%d %H:%M PST")
           
-          # Get the current timestamp in seconds since epoch
-          current_timestamp=$(TZ="America/Los_Angeles" date +%s)
+#           # Get the current timestamp in seconds since epoch
+#           current_timestamp=$(TZ="America/Los_Angeles" date +%s)
           
-          # Get the timestamp for the next midnight in seconds since epoch
-          midnight_timestamp=$(TZ="America/Los_Angeles" date -d "tomorrow 00:00" +%s)
+#           # Get the timestamp for the next midnight in seconds since epoch
+#           midnight_timestamp=$(TZ="America/Los_Angeles" date -d "tomorrow 00:00" +%s)
           
-          # Calculate the difference in seconds
-          time_diff=$((midnight_timestamp - current_timestamp))
+#           # Calculate the difference in seconds
+#           time_diff=$((midnight_timestamp - current_timestamp))
           
-          # Convert the difference to hours and minutes
-          hours_left=$((time_diff / 3600))
-          minutes_left=$(( (time_diff % 3600) / 60 ))
+#           # Convert the difference to hours and minutes
+#           hours_left=$((time_diff / 3600))
+#           minutes_left=$(( (time_diff % 3600) / 60 ))
           
-          # Format the time left
-          time_left=$(printf "%02d:%02d" $hours_left $minutes_left)
+#           # Format the time left
+#           time_left=$(printf "%02d:%02d" $hours_left $minutes_left)
 
-          # Update the README file
-          sed -i "s/\(<!-- TIME -->\).*\(<!-- \/TIME -->\)/\1 $current_time \2/" README.md
-          sed -i "s/\(<!-- TIME LEFT -->\).*\(<!-- \/TIME LEFT -->\)/\1 $time_left \2/" README.md
+#           # Update the README file
+#           sed -i "s/\(<!-- TIME -->\).*\(<!-- \/TIME -->\)/\1 $current_time \2/" README.md
+#           sed -i "s/\(<!-- TIME LEFT -->\).*\(<!-- \/TIME LEFT -->\)/\1 $time_left \2/" README.md
 
-      - name: Commit changes
-        run: |
-          if git diff --exit-code; then
-            echo "No changes to commit."
-            exit 0
-          else
-            git config --global user.name 'github-actions'
-            git config --global user.email 'github-actions@github.com'
-            git add README.md
-            git commit -m "Update README with current time and time left"
-            git push origin main
-          fi
+#       - name: Commit changes
+#         run: |
+#           if git diff --exit-code; then
+#             echo "No changes to commit."
+#             exit 0
+#           else
+#             git config --global user.name 'github-actions'
+#             git config --global user.email 'github-actions@github.com'
+#             git add README.md
+#             git commit -m "Update README with current time and time left"
+#             git push origin main
+#           fi
