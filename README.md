@@ -17,9 +17,7 @@
 ## Today's Question (Current time: <!-- TIME --> 2024-08-12 23:42 PST <!-- /TIME -->)
 ⏰ **Time left for submitting daily challenges:** ⌛️<!-- TIME LEFT --> 00:17 <!-- /TIME LEFT --> ✨
 ### 🖥️ Problem list
-- [70. Climbing Stairs](https://leetcode.com/problems/climbing-stairs/description/): Amazon
-- [518. Coin Change II](https://leetcode.com/problems/coin-change-ii/description/): Microsoft
-- [279. Perfect Squares](https://leetcode.com/problems/perfect-squares/description/): Amazon
+
 
 ## Previous Questions
 
@@ -75,3 +73,6 @@
 | 200        | [Number of Islands](https://leetcode.com/problems/number-of-islands/description/)                                                                           |
 | 1466       | [Reorder Routes to Make All Paths Lead to the City Zero](https://leetcode.com/problems/reorder-routes-to-make-all-paths-lead-to-the-city-zero/description/) |
 | 994        | [Rotting Oranges](https://leetcode.com/problems/rotting-oranges/description/)                                                                               |
+| 70         | [70. Climbing Stairs](https://leetcode.com/problems/climbing-stairs/description/)                                                                           |
+| 518        | [518. Coin Change II](https://leetcode.com/problems/coin-change-ii/description/)                                                                            |
+| 279        | [279. Perfect Squares](https://leetcode.com/problems/perfect-squares/description/)                                                                          |
