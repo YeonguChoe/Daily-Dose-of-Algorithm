@@ -17,9 +17,9 @@
 ## Today's Question (Current time: <!-- TIME --> 2024-08-13 12:36 PST <!-- /TIME -->)
 ⏰ **Time left for submitting daily challenges:** ⌛️<!-- TIME LEFT --> 11:23 <!-- /TIME LEFT --> ✨
 ### 🖥️ Problem list
-- [53. Maximum Subarray](https://leetcode.com/problems/maximum-subarray/description/)
-- [347. Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/description/)
-- [435. Non-overlapping Intervals](https://leetcode.com/problems/non-overlapping-intervals/description/)
+- [1971. Find if Path Exists in Graph](https://leetcode.com/problems/find-if-path-exists-in-graph/description/)
+- [860. Lemonade Change](https://leetcode.com/problems/lemonade-change/description/)
+- [997. Find the Town Judge](https://leetcode.com/problems/find-the-town-judge/description/)
 
 ## Previous Questions
 
@@ -78,3 +78,6 @@
 | 70         | [70. Climbing Stairs](https://leetcode.com/problems/climbing-stairs/description/)                                                                           |
 | 518        | [518. Coin Change II](https://leetcode.com/problems/coin-change-ii/description/)                                                                            |
 | 279        | [279. Perfect Squares](https://leetcode.com/problems/perfect-squares/description/)                                                                          |
+| 53         | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/description/)                                                                             |
+| 347        | [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/description/)                                                               |
+| 435        | [Non-overlapping Intervals](https://leetcode.com/problems/non-overlapping-intervals/description/)                                                           |
