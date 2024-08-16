@@ -14,12 +14,12 @@
 > [!IMPORTANT]
 > Posting your code is not mandatory. But feel free to post solution with comments on your folder, so that you can review your code. **So, Files you can modify is `README.md` and `files in your folder`, only.**
 
-## Today's Question (Current time: <!-- TIME --> 2024-08-16 15:38 PST <!-- /TIME -->)
-⏰ **Time left for submitting daily challenges:** ⌛️<!-- TIME LEFT --> 08:21 <!-- /TIME LEFT --> ✨
+## Today's Question (Current time: <!-- TIME --> 2024-08-16 14:37 PST <!-- /TIME -->)
+⏰ **Time left for submitting daily challenges:** ⌛️<!-- TIME LEFT --> 09:22 <!-- /TIME LEFT --> ✨
 ### 🖥️ Problem list
-- [1971. Find if Path Exists in Graph](https://leetcode.com/problems/find-if-path-exists-in-graph/description/)
-- [860. Lemonade Change](https://leetcode.com/problems/lemonade-change/description/)
-- [997. Find the Town Judge](https://leetcode.com/problems/find-the-town-judge/description/)
+- [1791. Find Center of Star Graph](https://leetcode.com/problems/find-center-of-star-graph/description/)
+- [802. Find Eventual Safe States](https://leetcode.com/problems/find-eventual-safe-states/description/)
+- [547. Number of Provinces](https://leetcode.com/problems/number-of-provinces/description/)
 
 ## Previous Questions
 
@@ -81,3 +81,6 @@
 | 53         | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/description/)                                                                             |
 | 347        | [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/description/)                                                               |
 | 435        | [Non-overlapping Intervals](https://leetcode.com/problems/non-overlapping-intervals/description/)                                                           |
+| 1971       | [Find if Path Exists in Graph](https://leetcode.com/problems/find-if-path-exists-in-graph/description/)                                                     |
+| 860        | [Lemonade Change](https://leetcode.com/problems/lemonade-change/description/)                                                                               |
+| 997        | [Find the Town Judge](https://leetcode.com/problems/find-the-town-judge/description/)                                                                       |
