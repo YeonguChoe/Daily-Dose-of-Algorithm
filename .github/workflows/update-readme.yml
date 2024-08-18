@@ -17,10 +17,10 @@ jobs:
       - name: Update README with current time
         run: |
           # Get the current time in PST
-          current_time=$(TZ="America/Los_Angeles" date +"%Y-%m-%d %H:%M PST")
+          current_time=$(TZ="America/Toronto" date +"%Y-%m-%d %H:%M EST")
           
           # Get the current timestamp in seconds since epoch
-          current_timestamp=$(TZ="America/Los_Angeles" date +%s)
+          current_timestamp=$(TZ="America/Toronto" date +%s)
           
           # Get the timestamp for the next midnight in seconds since epoch
           midnight_timestamp=$(TZ="America/Los_Angeles" date -d "tomorrow 00:00" +%s)
