@@ -23,7 +23,7 @@ jobs:
           current_timestamp=$(TZ="America/Toronto" date +%s)
           
           # Get the timestamp for the next midnight in seconds since epoch
-          midnight_timestamp=$(TZ="America/Los_Angeles" date -d "tomorrow 00:00" +%s)
+          midnight_timestamp=$(TZ="America/Toronto" date -d "tomorrow 00:00" +%s)
           
           # Calculate the difference in seconds
           time_diff=$((midnight_timestamp - current_timestamp))
