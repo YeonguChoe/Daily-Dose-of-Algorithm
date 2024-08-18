@@ -2,7 +2,8 @@ name: Update README
 
 on:
   schedule:
-    - cron: '30 * * * 1-5'  # run it at the 30th minute of every hour, Monday to Friday
+    # - cron: '30 * * * 1-5'  # run it at the 30th minute of every hour, Monday to Friday
+    - cron: '* * * * *'  # run it every minute
   workflow_dispatch:  # Allows manual triggering
 
 jobs:
