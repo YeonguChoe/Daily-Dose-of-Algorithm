@@ -16,8 +16,8 @@ jobs:
 
       - name: Update README with current time
         run: |
-          # Get the current time in PST
-          current_time=$(TZ="America/Toronto" date +"%Y-%m-%d %H:%M EST")
+          # Get the current time in EST
+          current_time=$(TZ="America/Toronto" date +"%Y-%m-%d %H:%M @ Toronto")
           
           # Get the current timestamp in seconds since epoch
           current_timestamp=$(TZ="America/Toronto" date +%s)
