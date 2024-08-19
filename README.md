@@ -14,8 +14,8 @@
 > [!IMPORTANT]
 > Posting your code is not mandatory. But feel free to post solution with comments on your folder, so that you can review your code. **So, Files you can modify is `README.md` and `files in your folder`, only.**
 
-## Today's Question (Current time: <!-- TIME --> 2024-08-18 21:47 EST <!-- /TIME -->)
-⏰ **Time left for submitting daily challenges:** ⌛️<!-- TIME LEFT --> 02:12 <!-- /TIME LEFT --> ✨
+## Today's Question (Current time: <!-- TIME --> 2024-08-18 22:48 EST <!-- /TIME -->)
+⏰ **Time left for submitting daily challenges:** ⌛️<!-- TIME LEFT --> 01:11 <!-- /TIME LEFT --> ✨
 ### 🖥️ Problem list
 - [1791. Find Center of Star Graph](https://leetcode.com/problems/find-center-of-star-graph/description/)
 - [802. Find Eventual Safe States](https://leetcode.com/problems/find-eventual-safe-states/description/)
