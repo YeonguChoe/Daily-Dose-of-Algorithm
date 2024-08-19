@@ -17,9 +17,11 @@
 ## Today's Question (Current time: <!-- TIME --> 2024-08-19 00:35 EST <!-- /TIME -->)
 ⏰ **Time left for submitting daily challenges:** ⌛️<!-- TIME LEFT --> 23:24 <!-- /TIME LEFT --> ✨
 ### 🖥️ Problem list
-- [1791. Find Center of Star Graph](https://leetcode.com/problems/find-center-of-star-graph/description/)
-- [802. Find Eventual Safe States](https://leetcode.com/problems/find-eventual-safe-states/description/)
-- [547. Number of Provinces](https://leetcode.com/problems/number-of-provinces/description/)
+- [46. Permutations](https://leetcode.com/problems/permutations/description/)
+- [61. Rotate List](https://leetcode.com/problems/rotate-list/)
+- [116. Populating Next Right Pointers In Each Node](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/description/)
+
+<br/>
 
 ## Previous Questions
 
@@ -84,3 +86,7 @@
 | 1971       | [Find if Path Exists in Graph](https://leetcode.com/problems/find-if-path-exists-in-graph/description/)                                                     |
 | 860        | [Lemonade Change](https://leetcode.com/problems/lemonade-change/description/)                                                                               |
 | 997        | [Find the Town Judge](https://leetcode.com/problems/find-the-town-judge/description/)                                                                       |
+| 1791       | [Find Center of Star Graph](https://leetcode.com/problems/find-center-of-star-graph/description/)                                                                       |
+| 802        | [Find Eventual](https://leetcode.com/problems/find-eventual-safe-states/description/)                                                                       |
+| 547        | [Number of Provinces](https://leetcode.com/problems/number-of-provinces/description/)                                                                       |
+
