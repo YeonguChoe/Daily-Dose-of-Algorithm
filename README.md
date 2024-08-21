@@ -17,9 +17,9 @@
 ## Today's Question (Current time: <!-- TIME --> 2024-08-21 13:32 @ Toronto <!-- /TIME -->)
 ⏰ **Time left for submitting daily challenges:** ⌛️<!-- TIME LEFT --> 10:27 <!-- /TIME LEFT --> ✨
 ### 🖥️ Problem list
-- [5. Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/description/)
-- [79. Word Search](https://leetcode.com/problems/word-search/description/)
-- [207. Course Schedule](https://leetcode.com/problems/course-schedule/description/)
+- [141. Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/description/)
+- [21. Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/description/)
+- [23. Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/description/)
 
 <br/>
 
@@ -86,10 +86,12 @@
 | 1971       | [Find if Path Exists in Graph](https://leetcode.com/problems/find-if-path-exists-in-graph/description/)                                                     |
 | 860        | [Lemonade Change](https://leetcode.com/problems/lemonade-change/description/)                                                                               |
 | 997        | [Find the Town Judge](https://leetcode.com/problems/find-the-town-judge/description/)                                                                       |
-| 1791       | [Find Center of Star Graph](https://leetcode.com/problems/find-center-of-star-graph/description/)                                                                       |
+| 1791       | [Find Center of Star Graph](https://leetcode.com/problems/find-center-of-star-graph/description/)                                                           |
 | 802        | [Find Eventual](https://leetcode.com/problems/find-eventual-safe-states/description/)                                                                       |
 | 547        | [Number of Provinces](https://leetcode.com/problems/number-of-provinces/description/)                                                                       |
 | 46         | [Permutations](https://leetcode.com/problems/permutations/description/)                                                                                     |
 | 61         | [Rotate List](https://leetcode.com/problems/rotate-list/)                                                                                                   |
 | 116        | [Populating Next Right Pointers In Each Node](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/description/)                       |
-
+| 5          | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/description/)                                                   |
+| 79         | [Word Search](https://leetcode.com/problems/word-search/description/)                                                                                       |
+| 207        | [Course Schedule](https://leetcode.com/problems/course-schedule/description/)                                                                               |
