@@ -14,8 +14,8 @@
 > [!IMPORTANT]
 > Posting your code is not mandatory. But feel free to post solution with comments on your folder, so that you can review your code. **So, Files you can modify is `README.md` and `files in your folder`, only.**
 
-## Today's Question (Current time: <!-- TIME --> 2024-08-21 05:32 @ Toronto <!-- /TIME -->)
-⏰ **Time left for submitting daily challenges:** ⌛️<!-- TIME LEFT --> 18:27 <!-- /TIME LEFT --> ✨
+## Today's Question (Current time: <!-- TIME --> 2024-08-21 06:36 @ Toronto <!-- /TIME -->)
+⏰ **Time left for submitting daily challenges:** ⌛️<!-- TIME LEFT --> 17:23 <!-- /TIME LEFT --> ✨
 ### 🖥️ Problem list
 - [5. Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/description/)
 - [79. Word Search](https://leetcode.com/problems/word-search/description/)
