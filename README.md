@@ -17,9 +17,9 @@
 ## Today's Question (Current time: <!-- TIME --> 2024-08-22 03:32 @ Toronto <!-- /TIME -->)
 ⏰ **Time left for submitting daily challenges:** ⌛️<!-- TIME LEFT --> 20:27 <!-- /TIME LEFT --> ✨
 ### 🖥️ Problem list
-- [143. Reorder List](https://leetcode.com/problems/reorder-list/description/)
-- [21. Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/description/)
-- [23. Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/description/)
+- [169. Majority Element](https://leetcode.com/problems/majority-element/description)
+- [13. Roman to Integer](https://leetcode.com/problems/roman-to-integer/description)
+- [26. Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/description)
 
 <br/>
 
@@ -95,3 +95,6 @@
 | 5          | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/description/)                                                   |
 | 79         | [Word Search](https://leetcode.com/problems/word-search/description/)                                                                                       |
 | 207        | [Course Schedule](https://leetcode.com/problems/course-schedule/description/)                                                                               |
+| 143        | [Reorder List](https://leetcode.com/problems/reorder-list/description/)                                                                                     |
+| 21         | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/description/)                                                                 |
+| 23         | [Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/description/)                                                                     |
