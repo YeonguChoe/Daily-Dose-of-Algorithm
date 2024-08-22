@@ -14,8 +14,8 @@
 > [!IMPORTANT]
 > Posting your code is not mandatory. But feel free to post solution with comments on your folder, so that you can review your code. **So, Files you can modify is `README.md` and `files in your folder`, only.**
 
-## Today's Question (Current time: <!-- TIME --> 2024-08-22 11:34 @ Toronto <!-- /TIME -->)
-⏰ **Time left for submitting daily challenges:** ⌛️<!-- TIME LEFT --> 12:25 <!-- /TIME LEFT --> ✨
+## Today's Question (Current time: <!-- TIME --> 2024-08-22 12:41 @ Toronto <!-- /TIME -->)
+⏰ **Time left for submitting daily challenges:** ⌛️<!-- TIME LEFT --> 11:18 <!-- /TIME LEFT --> ✨
 ### 🖥️ Problem list
 - [169. Majority Element](https://leetcode.com/problems/majority-element/description)
 - [13. Roman to Integer](https://leetcode.com/problems/roman-to-integer/description)
