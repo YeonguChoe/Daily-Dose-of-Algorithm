@@ -109,3 +109,24 @@ int romanToInt(string s)
 //     }
 //     return result;
 // }
+
+// // Right to Left Pass
+// int romanToInt(string s)
+// {
+//     unordered_map<char, int> v = {{'I', 1}, {'V', 5}, {'X', 10}, {'L', 50}, {'C', 100}, {'D', 500}, {'M', 1000}};
+
+//     int result = v[s[s.size() - 1]];
+
+//     for (int i = (s.size() - 1) - 1; i >= 0; i--)
+//     {
+//         if (v[s[i]] < v[s[i + 1]])
+//         {
+//             result -= v[s[i]];
+//         }
+//         else
+//         {
+//             result += v[s[i]];
+//         }
+//     }
+//     return result;
+// }
