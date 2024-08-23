@@ -17,9 +17,9 @@
 ## Today's Question (Current time: <!-- TIME --> 2024-08-23 14:37 @ Toronto <!-- /TIME -->)
 ⏰ **Time left for submitting daily challenges:** ⌛️<!-- TIME LEFT --> 09:22 <!-- /TIME LEFT --> ✨
 ### 🖥️ Problem list
-- [169. Majority Element](https://leetcode.com/problems/majority-element/description)
-- [13. Roman to Integer](https://leetcode.com/problems/roman-to-integer/description)
-- [26. Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/description)
+- [1376. Time Needed to Inform All Employees](https://leetcode.com/problems/time-needed-to-inform-all-employees/description)
+- [1129. Shortest Path with Alternating Colors](https://leetcode.com/problems/shortest-path-with-alternating-colors/description)
+- [841. Keys and Rooms](https://leetcode.com/problems/keys-and-rooms/description/)
 
 <br/>
 
@@ -98,3 +98,6 @@
 | 143        | [Reorder List](https://leetcode.com/problems/reorder-list/description/)                                                                                     |
 | 21         | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/description/)                                                                 |
 | 23         | [Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/description/)                                                                     |
+| 169        | [169. Majority Element](https://leetcode.com/problems/majority-element/description)                                                                         |
+| 13         | [13. Roman to Integer](https://leetcode.com/problems/roman-to-integer/description)                                                                          |
+| 26         | [26. Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/description)                                    |
