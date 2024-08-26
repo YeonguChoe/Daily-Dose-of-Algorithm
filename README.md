@@ -17,9 +17,10 @@
 ## Today's Question (Current time: <!-- TIME --> 2024-08-26 00:37 @ Toronto <!-- /TIME -->)
 ⏰ **Time left for submitting daily challenges:** ⌛️<!-- TIME LEFT --> 23:22 <!-- /TIME LEFT --> ✨
 ### 🖥️ Problem list
-- [1376. Time Needed to Inform All Employees](https://leetcode.com/problems/time-needed-to-inform-all-employees/description)
-- [1129. Shortest Path with Alternating Colors](https://leetcode.com/problems/shortest-path-with-alternating-colors/description)
-- [841. Keys and Rooms](https://leetcode.com/problems/keys-and-rooms/description/)
+- [1091. Shortest Path in Binary Matrix](https://leetcode.com/problems/shortest-path-in-binary-matrix/)
+- [560. Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/)
+- [981. Time Based Key-Value Store](https://leetcode.com/problems/time-based-key-value-store/)
+
 
 <br/>
 
@@ -101,3 +102,7 @@
 | 169        | [169. Majority Element](https://leetcode.com/problems/majority-element/description)                                                                         |
 | 13         | [13. Roman to Integer](https://leetcode.com/problems/roman-to-integer/description)                                                                          |
 | 26         | [26. Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/description)                                    |
+| 1376       | [1376. Time Needed to Inform All Employees](https://leetcode.com/problems/time-needed-to-inform-all-employees/description)                                  |
+| 1129       | [1129. Shortest Path with Alternating Colors](https://leetcode.com/problems/shortest-path-with-alternating-colors/description)                              |
+| 841        | [841. Keys and Rooms](https://leetcode.com/problems/keys-and-rooms/description/)                                                                            |
+
