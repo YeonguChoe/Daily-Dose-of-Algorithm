@@ -17,9 +17,9 @@
 ## Today's Question (Current time: <!-- TIME --> 2024-08-26 23:34 @ Toronto <!-- /TIME -->)
 ⏰ **Time left for submitting daily challenges:** ⌛️<!-- TIME LEFT --> 00:25 <!-- /TIME LEFT --> ✨
 ### 🖥️ Problem list
-- [1091. Shortest Path in Binary Matrix](https://leetcode.com/problems/shortest-path-in-binary-matrix/)
-- [560. Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/)
-- [981. Time Based Key-Value Store](https://leetcode.com/problems/time-based-key-value-store/)
+- [743. Network Delay Time](https://leetcode.com/problems/network-delay-time/description/)
+- [682. Baseball Game](https://leetcode.com/problems/baseball-game/description/)
+- [523. Continuous Subarray Sum](https://leetcode.com/problems/continuous-subarray-sum/description/)
 
 
 <br/>
@@ -105,4 +105,7 @@
 | 1376       | [1376. Time Needed to Inform All Employees](https://leetcode.com/problems/time-needed-to-inform-all-employees/description)                                  |
 | 1129       | [1129. Shortest Path with Alternating Colors](https://leetcode.com/problems/shortest-path-with-alternating-colors/description)                              |
 | 841        | [841. Keys and Rooms](https://leetcode.com/problems/keys-and-rooms/description/)                                                                            |
+| 1091       | [1091. Shortest Path in Binary Matrix](https://leetcode.com/problems/shortest-path-in-binary-matrix/)                                                       |
+| 560        | [560. Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/)                                                                          |
+| 981        | [981. Time Based Key-Value Store](https://leetcode.com/problems/time-based-key-value-store/)                                                                |
 
