@@ -14,8 +14,8 @@
 > [!IMPORTANT]
 > Posting your code is not mandatory. But feel free to post solution with comments on your folder, so that you can review your code. **So, Files you can modify is `README.md` and `files in your folder`, only.**
 
-## Today's Question (Current time: <!-- TIME --> 2024-08-27 21:48 @ Toronto <!-- /TIME -->)
-⏰ **Time left for submitting daily challenges:** ⌛️<!-- TIME LEFT --> 02:11 <!-- /TIME LEFT --> ✨
+## Today's Question (Current time: <!-- TIME --> 2024-08-27 22:49 @ Toronto <!-- /TIME -->)
+⏰ **Time left for submitting daily challenges:** ⌛️<!-- TIME LEFT --> 01:10 <!-- /TIME LEFT --> ✨
 ### 🖥️ Problem list
 - [743. Network Delay Time](https://leetcode.com/problems/network-delay-time/description/)
 - [682. Baseball Game](https://leetcode.com/problems/baseball-game/description/)
