@@ -17,10 +17,9 @@
 ## Today's Question (Current time: <!-- TIME --> 2024-08-28 00:37 @ Toronto <!-- /TIME -->)
 ⏰ **Time left for submitting daily challenges:** ⌛️<!-- TIME LEFT --> 23:22 <!-- /TIME LEFT --> ✨
 ### 🖥️ Problem list
-- [743. Network Delay Time](https://leetcode.com/problems/network-delay-time/description/)
-- [682. Baseball Game](https://leetcode.com/problems/baseball-game/description/)
-- [523. Continuous Subarray Sum](https://leetcode.com/problems/continuous-subarray-sum/description/)
-
+- [605. Can Place Flowers](https://leetcode.com/problems/can-place-flowers/description/)
+- [27. Remove Element](https://leetcode.com/problems/remove-element/description/)
+- [724. Find Pivot Index](https://leetcode.com/problems/find-pivot-index/description/)
 
 <br/>
 
@@ -108,4 +107,6 @@
 | 1091       | [1091. Shortest Path in Binary Matrix](https://leetcode.com/problems/shortest-path-in-binary-matrix/)                                                       |
 | 560        | [560. Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/)                                                                          |
 | 981        | [981. Time Based Key-Value Store](https://leetcode.com/problems/time-based-key-value-store/)                                                                |
-
+| 743        | [Network Delay Time](https://leetcode.com/problems/network-delay-time/description/)                                                                         |
+| 682        | [Baseball Game](https://leetcode.com/problems/baseball-game/description/)                                                                                   |
+| 523        | [Continuous Subarray Sum](https://leetcode.com/problems/continuous-subarray-sum/description/)                                                               |
