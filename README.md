@@ -9,7 +9,7 @@
 > It's not mandatory to find solution at instance. You can watch YouTube Video or Editorial to figure it out. And code it with your favorite programming language.
 
 > [!TIP]  
-> Please fill out time complexity and space compexity at the chart, if you don't mind.
+> Finding time and space complexity is a good practice.
 
 > [!IMPORTANT]
 > Posting your code is not mandatory. But feel free to post solution with comments on your folder, so that you can review your code. **So, Files you can modify is `README.md` and `files in your folder`, only.**
