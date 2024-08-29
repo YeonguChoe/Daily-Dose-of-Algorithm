@@ -14,8 +14,8 @@
 > [!IMPORTANT]
 > Posting your code is not mandatory. But feel free to post solution with comments on your folder, so that you can review your code. **So, Files you can modify is `README.md` and `files in your folder`, only.**
 
-## Today's Question (Current time: <!-- TIME --> 2024-08-29 08:52 @ Toronto <!-- /TIME -->)
-⏰ **Time left for submitting daily challenges:** ⌛️<!-- TIME LEFT --> 15:07 <!-- /TIME LEFT --> ✨
+## Today's Question (Current time: <!-- TIME --> 2024-08-29 09:34 @ Toronto <!-- /TIME -->)
+⏰ **Time left for submitting daily challenges:** ⌛️<!-- TIME LEFT --> 14:25 <!-- /TIME LEFT --> ✨
 ### 🖥️ Problem list
 - [785. Is Graph Bipartite?](https://leetcode.com/problems/is-graph-bipartite/description/)
 - [934. Shortest Bridge](https://leetcode.com/problems/shortest-bridge/description)
