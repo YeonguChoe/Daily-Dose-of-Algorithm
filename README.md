@@ -98,18 +98,18 @@
 | 143        | [Reorder List](https://leetcode.com/problems/reorder-list/description/)                                                                                     |
 | 21         | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/description/)                                                                 |
 | 23         | [Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/description/)                                                                     |
-| 169        | [169. Majority Element](https://leetcode.com/problems/majority-element/description)                                                                         |
-| 13         | [13. Roman to Integer](https://leetcode.com/problems/roman-to-integer/description)                                                                          |
-| 26         | [26. Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/description)                                    |
+| 169        | [Majority Element](https://leetcode.com/problems/majority-element/description)                                                                         |
+| 13         | [Roman to Integer](https://leetcode.com/problems/roman-to-integer/description)                                                                          |
+| 26         | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/description)                                    |
 | 1376       | [1376. Time Needed to Inform All Employees](https://leetcode.com/problems/time-needed-to-inform-all-employees/description)                                  |
 | 1129       | [1129. Shortest Path with Alternating Colors](https://leetcode.com/problems/shortest-path-with-alternating-colors/description)                              |
 | 841        | [841. Keys and Rooms](https://leetcode.com/problems/keys-and-rooms/description/)                                                                            |
 | 1091       | [1091. Shortest Path in Binary Matrix](https://leetcode.com/problems/shortest-path-in-binary-matrix/)                                                       |
 | 560        | [560. Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/)                                                                          |
 | 981        | [981. Time Based Key-Value Store](https://leetcode.com/problems/time-based-key-value-store/)                                                                |
-| 743        | [Network Delay Time](https://leetcode.com/problems/network-delay-time/description/)                                                                         |
-| 682        | [Baseball Game](https://leetcode.com/problems/baseball-game/description/)                                                                                   |
-| 523        | [Continuous Subarray Sum](https://leetcode.com/problems/continuous-subarray-sum/description/)                                                               |
+| 743        | [743. Network Delay Time](https://leetcode.com/problems/network-delay-time/description/)                                                                         |
+| 682        | [682. Baseball Game](https://leetcode.com/problems/baseball-game/description/)                                                                                   |
+| 523        | [523. Continuous Subarray Sum](https://leetcode.com/problems/continuous-subarray-sum/description/)                                                               |
 | 605        | [Can Place Flowers](https://leetcode.com/problems/can-place-flowers/description/)                                                                           |
 | 27         | [Remove Element](https://leetcode.com/problems/remove-element/description/)                                                                                 |
 | 724        | [Find Pivot Index](https://leetcode.com/problems/find-pivot-index/description/)                                                                             |
