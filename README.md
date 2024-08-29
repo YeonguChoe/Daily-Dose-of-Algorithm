@@ -17,9 +17,9 @@
 ## Today's Question (Current time: <!-- TIME --> 2024-08-29 02:40 @ Toronto <!-- /TIME -->)
 ⏰ **Time left for submitting daily challenges:** ⌛️<!-- TIME LEFT --> 21:19 <!-- /TIME LEFT --> ✨
 ### 🖥️ Problem list
-- [605. Can Place Flowers](https://leetcode.com/problems/can-place-flowers/description/)
-- [27. Remove Element](https://leetcode.com/problems/remove-element/description/)
-- [724. Find Pivot Index](https://leetcode.com/problems/find-pivot-index/description/)
+- [785. Is Graph Bipartite?](https://leetcode.com/problems/is-graph-bipartite/description/)
+- [934. Shortest Bridge](https://leetcode.com/problems/shortest-bridge/description)
+- [1926. Nearest Exit from Entrance in Maze](https://leetcode.com/problems/nearest-exit-from-entrance-in-maze/description)
 
 <br/>
 
@@ -110,3 +110,7 @@
 | 743        | [Network Delay Time](https://leetcode.com/problems/network-delay-time/description/)                                                                         |
 | 682        | [Baseball Game](https://leetcode.com/problems/baseball-game/description/)                                                                                   |
 | 523        | [Continuous Subarray Sum](https://leetcode.com/problems/continuous-subarray-sum/description/)                                                               |
+| 605        | [Can Place Flowers](https://leetcode.com/problems/can-place-flowers/description/)                                                                           |
+| 27         | [Remove Element](https://leetcode.com/problems/remove-element/description/)                                                                                 |
+| 724        | [Find Pivot Index](https://leetcode.com/problems/find-pivot-index/description/)                                                                             |
+
