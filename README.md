@@ -17,9 +17,9 @@
 ## Today's Question (Current time: <!-- TIME --> 2024-09-01 23:36 @ Toronto <!-- /TIME -->)
 ⏰ **Time left for submitting daily challenges:** ⌛️<!-- TIME LEFT --> 00:23 <!-- /TIME LEFT --> ✨
 ### 🖥️ Problem list
-- [785. Is Graph Bipartite?](https://leetcode.com/problems/is-graph-bipartite/description/)
-- [934. Shortest Bridge](https://leetcode.com/problems/shortest-bridge/description)
-- [1926. Nearest Exit from Entrance in Maze](https://leetcode.com/problems/nearest-exit-from-entrance-in-maze/description)
+Number of Connected Components in an Undirected Graph (LeetCode #323)
+- [417. Pacific Atlantic Water Flow](https://leetcode.com/problems/pacific-atlantic-water-flow/description/)
+- [139. Word Break](https://leetcode.com/problems/word-break/description/)
 
 <br/>
 
@@ -113,4 +113,7 @@
 | 605        | [Can Place Flowers](https://leetcode.com/problems/can-place-flowers/description/)                                                                           |
 | 27         | [Remove Element](https://leetcode.com/problems/remove-element/description/)                                                                                 |
 | 724        | [Find Pivot Index](https://leetcode.com/problems/find-pivot-index/description/)                                                                             |
+| 785        | [Is Graph Bipartite?](https://leetcode.com/problems/is-graph-bipartite/description/)                                                                        |
+| 934        | [Shortest Bridge](https://leetcode.com/problems/shortest-bridge/description)                                                                               |
+|1926        | [Nearest Exit from Entrance in Maze](https://leetcode.com/problems/nearest-exit-from-entrance-in-maze/description)                                          |
 
