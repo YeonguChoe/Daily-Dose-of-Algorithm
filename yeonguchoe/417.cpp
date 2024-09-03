@@ -1,91 +1,80 @@
-// Unfinished
+class Solution {
+public:
+    std::vector<std::vector<int>> surrounding = {
+        {1, 0}, {0, 1}, {-1, 0}, {0, -1}};
 
-bool dfs_pacific(int i, int j, vector<vector<int>>& map, vector<vector<bool>>& visited)
-{
-    int row = map.size();
-    int column = map[0].size();
+    struct Compare {
+        bool operator()(vector<int>& a,
+                        vector<int>& b) const {
+            return a[0] < b[0] || (a[0] == b[0] && a[1] < b[1]);
+        }
+    };
 
-    // 벽에 붙는지 체크
-    if (i <= 0 || j <= 0)
-    {
-        return true;
-    }
+    std::set<std::vector<int>, Compare>
+    BFS(std::queue<std::vector<int>> q,
+        const std::vector<std::vector<int>>& matrix) {
+        std::set<std::vector<int>, Compare> unique_cell;
+        std::vector<std::vector<bool>> visited(
+            matrix.size(), std::vector<bool>(matrix[0].size(), false));
 
-    // Mark the current cell as visited
-    visited[i][j] = true;
+        while (!q.empty()) {
+            vector<int> cell = q.front();
+            q.pop();
+            int r = cell[0], c = cell[1];
+            if (visited[r][c])
+                continue;
+            visited[r][c] = true;
+            unique_cell.insert(cell);
 
-    if (i < row - 2 && map[i + 1][j] <= map[i][j] && !visited[i + 1][j])
-    {
-        return dfs_pacific(i + 1, j, map, visited);
-    }
-    if (j < column - 2 && map[i][j + 1] <= map[i][j] && !visited[i][j + 1])
-    {
-        return dfs_pacific(i, j + 1, map, visited);
-    }
-    if (i > 0 && map[i - 1][j] <= map[i][j] && !visited[i - 1][j])
-    {
-        return dfs_pacific(i - 1, j, map, visited);
-    }
-    if (j > 0 && map[i][j - 1] <= map[i][j] && visited[i][j - 1])
-    {
-        return dfs_pacific(i, j - 1, map, visited);
-    }
-    visited[i][j] = false;
-    return false;
-}
+            for (vector<int>& direction : surrounding) {
+                int new_row = r + direction[0];
+                int new_column = c + direction[1];
 
-bool dfs_atlantic(int i, int j, vector<vector<int>>& map, vector<vector<bool>>& visited)
-{
-    int row = map.size();
-    int column = map[0].size();
-
-    // 벽에 붙는지 체크
-    if (i >= row - 1 || j >= column - 1)
-    {
-        return true;
-    }
-
-    // Mark the current cell as visited
-    visited[i][j] = true;
-
-    if (i < row - 2 && map[i + 1][j] <= map[i][j] && !visited[i + 1][j])
-    {
-        return dfs_atlantic(i + 1, j, map, visited);
-    }
-    if (j < column - 2 && map[i][j + 1] <= map[i][j] && !visited[i][j + 1])
-    {
-        return dfs_atlantic(i, j + 1, map, visited);
-    }
-    if (i > 0 && map[i - 1][j] <= map[i][j] && !visited[i - 1][j])
-    {
-        return dfs_atlantic(i - 1, j, map, visited);
-    }
-    if (j > 0 && map[i][j - 1] <= map[i][j] && visited[i][j - 1])
-    {
-        return dfs_atlantic(i, j - 1, map, visited);
-    }
-    visited[i][j] = false;
-    return false;
-}
-
-
-vector<vector<int>> pacificAtlantic(vector<vector<int>>& heights)
-{
-    vector<vector<int>> result;
-
-    vector<vector<bool>> visited_cell1(heights.size(), vector<bool>(heights[0].size(), false));
-    vector<vector<bool>> visited_cell2(heights.size(), vector<bool>(heights[0].size(), false));
-
-    for (int i = 1; i < heights.size() - 1; i++)
-    {
-        for (int j = 1; j < heights[0].size() - 1; j++)
-        {
-            if (dfs_pacific(i, j, heights, visited_cell1) &&
-                dfs_atlantic(i, j, heights, visited_cell2))
-            {
-                result.push_back({i, j});
+                if (new_row >= 0 && new_column >= 0 &&
+                    new_row < matrix.size() && new_column < matrix[0].size()) {
+                    if (!visited[new_row][new_column] &&
+                        matrix[new_row][new_column] >= matrix[r][c]) {
+                        q.push({new_row, new_column});
+                    }
+                }
             }
         }
+
+        return unique_cell;
     }
-    return result;
-}
+
+    std::vector<std::vector<int>>
+    pacificAtlantic(std::vector<std::vector<int>>& heights) {
+        std::queue<std::vector<int>> pacific_queue;
+        std::queue<std::vector<int>> atlantic_queue;
+
+        for (int i = 0; i < static_cast<int>(heights[0].size()); i++) {
+            pacific_queue.push({0, i});
+            atlantic_queue.push({static_cast<int>(heights.size()) - 1, i});
+        }
+
+        for (int j = 0; j < static_cast<int>(heights.size()); j++) {
+            pacific_queue.push({j, 0});
+            atlantic_queue.push({j, static_cast<int>(heights[0].size()) - 1});
+        }
+
+        std::set<std::vector<int>, Compare> reachable_from_pacific =
+            BFS(pacific_queue, heights);
+        std::set<std::vector<int>, Compare> reachable_from_atlantic =
+            BFS(atlantic_queue, heights);
+
+        std::vector<std::vector<int>> result;
+        std::vector<std::vector<int>> intersection;
+
+        intersection.reserve(
+            min(static_cast<int>(reachable_from_pacific.size()),
+                     static_cast<int>(reachable_from_atlantic.size())));
+
+        set_intersection(
+            reachable_from_pacific.begin(), reachable_from_pacific.end(),
+            reachable_from_atlantic.begin(), reachable_from_atlantic.end(),
+            back_inserter(intersection));
+
+        return intersection;
+    }
+};
