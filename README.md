@@ -14,12 +14,12 @@
 > [!IMPORTANT]
 > Posting your code is not mandatory. But feel free to post solution with comments on your folder, so that you can review your code. **So, Files you can modify is `README.md` and `files in your folder`, only.**
 
-## Today's Question (Current time: <!-- TIME --> 2024-09-03 22:51 @ Toronto <!-- /TIME -->)
+## Today's Question (Current time: <!-- TIME --> 2024-09-04 12:22 @ Korea <!-- /TIME -->)
 ⏰ **Time left for submitting daily challenges:** ⌛️<!-- TIME LEFT --> 01:08 <!-- /TIME LEFT --> ✨
 ### 🖥️ Problem list
 Number of Connected Components in an Undirected Graph (LeetCode #323)
-- [417. Pacific Atlantic Water Flow](https://leetcode.com/problems/pacific-atlantic-water-flow/description/)
-- [139. Word Break](https://leetcode.com/problems/word-break/description/)
+- [19. Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/description/)
+- [39. Combination Sum](https://leetcode.com/problems/combination-sum/description/)
 
 <br/>
 
@@ -116,4 +116,5 @@ Number of Connected Components in an Undirected Graph (LeetCode #323)
 | 785        | [Is Graph Bipartite?](https://leetcode.com/problems/is-graph-bipartite/description/)                                                                        |
 | 934        | [Shortest Bridge](https://leetcode.com/problems/shortest-bridge/description)                                                                               |
 |1926        | [Nearest Exit from Entrance in Maze](https://leetcode.com/problems/nearest-exit-from-entrance-in-maze/description)                                          |
-
+| 417        | [Pacific Atlantic Water Flow](https://leetcode.com/problems/pacific-atlantic-water-flow/description/)                                                       |
+| 139        | [Word Break](https://leetcode.com/problems/word-break/description/)                                                                                         |
