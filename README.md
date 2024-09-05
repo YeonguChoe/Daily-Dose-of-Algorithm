@@ -18,9 +18,11 @@
 ⏰ **Time left for submitting daily challenges:** ⌛️<!-- TIME LEFT --> 20:28 <!-- /TIME LEFT --> ✨
 ### 🖥️ Problem list
 Number of Connected Components in an Undirected Graph (LeetCode #323)
-- [19. Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/description/)
-- [39. Combination Sum](https://leetcode.com/problems/combination-sum/description/)
 
+
+
+- [2028. Find Missing Observations](https://leetcode.com/problems/find-missing-observations/description)
+- [721. Accounts Merge](https://leetcode.com/problems/accounts-merge/description)
 <br/>
 
 ## Previous Questions
@@ -118,3 +120,5 @@ Number of Connected Components in an Undirected Graph (LeetCode #323)
 |1926        | [Nearest Exit from Entrance in Maze](https://leetcode.com/problems/nearest-exit-from-entrance-in-maze/description)                                          |
 | 417        | [Pacific Atlantic Water Flow](https://leetcode.com/problems/pacific-atlantic-water-flow/description/)                                                       |
 | 139        | [Word Break](https://leetcode.com/problems/word-break/description/)                                                                                         |
+|19|[Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/description/)|
+|39|[Combination Sum](https://leetcode.com/problems/combination-sum/description/)|
