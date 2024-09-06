@@ -21,8 +21,8 @@ Number of Connected Components in an Undirected Graph (LeetCode #323)
 
 
 
-- [2028. Find Missing Observations](https://leetcode.com/problems/find-missing-observations/description)
-- [721. Accounts Merge](https://leetcode.com/problems/accounts-merge/description)
+- [130. Surrounded Regions](https://leetcode.com/problems/surrounded-regions/description/)
+- [392. Is Subsequence](https://leetcode.com/problems/is-subsequence/description/)
 <br/>
 
 ## Previous Questions
@@ -122,3 +122,5 @@ Number of Connected Components in an Undirected Graph (LeetCode #323)
 | 139        | [Word Break](https://leetcode.com/problems/word-break/description/)                                                                                         |
 |19|[Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/description/)|
 |39|[Combination Sum](https://leetcode.com/problems/combination-sum/description/)|
+| 2028       | [Find Missing Observations](https://leetcode.com/problems/find-missing-observations/description) |
+| 721        | [Accounts Merge](https://leetcode.com/problems/accounts-merge/description) |

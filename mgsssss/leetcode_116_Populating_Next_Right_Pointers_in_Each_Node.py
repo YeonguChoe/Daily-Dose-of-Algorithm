@@ -2,7 +2,7 @@
 https://leetcode.com/problems/populating-next-right-pointers-in-each-node/
 2024-08-19
 
-재밌는 문제, 
+재밌는 문제
 '''
 
 """
