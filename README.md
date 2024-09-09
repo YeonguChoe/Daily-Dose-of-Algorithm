@@ -14,8 +14,8 @@
 > [!IMPORTANT]
 > Posting your code is not mandatory. But feel free to post solution with comments on your folder, so that you can review your code. **So, Files you can modify is `README.md` and `files in your folder`, only.**
 
-## Today's Question (Current time: <!-- TIME --> 2024-09-06 19:34 @ Toronto <!-- /TIME -->)
-⏰ **Time left for submitting daily challenges:** ⌛️<!-- TIME LEFT --> 04:25 <!-- /TIME LEFT --> ✨
+## Today's Question (Current time: <!-- TIME --> 2024-09-08 21:54 @ Toronto <!-- /TIME -->)
+⏰ **Time left for submitting daily challenges:** ⌛️<!-- TIME LEFT --> 02:05 <!-- /TIME LEFT --> ✨
 ### 🖥️ Problem list
 Number of Connected Components in an Undirected Graph (LeetCode #323)
 
