@@ -17,8 +17,8 @@
 ## Today's Question (Current time: <!-- TIME --> 2024-09-11 01:36 @ Toronto <!-- /TIME -->)
 ⏰ **Time left for submitting daily challenges:** ⌛️<!-- TIME LEFT --> 22:23 <!-- /TIME LEFT --> ✨
 ### 🖥️ Problem list
-- [33. Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/description/)
-- [211. Design Add and Search Words Data Structure](https://leetcode.com/problems/design-add-and-search-words-data-structure/description/)
+- [208. Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/description/)
+- [142. Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/description/)
 
 ## Previous Questions
 
@@ -121,3 +121,5 @@
 | 721        | [Accounts Merge](https://leetcode.com/problems/accounts-merge/description)                                                                                  |
 | 130        | [Surrounded Regions](https://leetcode.com/problems/surrounded-regions/description/)                                                                         |
 | 392        | [Is Subsequence](https://leetcode.com/problems/is-subsequence/description/)                                                                                 |
+| 33         | [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/description/)                                                 |
+| 211        | [Design Add and Search Words Data Structure](https://leetcode.com/problems/design-add-and-search-words-data-structure/description/)                         |
