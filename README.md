@@ -14,8 +14,8 @@
 > [!IMPORTANT]
 > Posting your code is not mandatory. But feel free to post solution with comments on your folder, so that you can review your code. **So, Files you can modify is `README.md` and `files in your folder`, only.**
 
-## Today's Question (Current time: <!-- TIME --> 2024-09-13 09:34 @ Toronto <!-- /TIME -->)
-⏰ **Time left for submitting daily challenges:** ⌛️<!-- TIME LEFT --> 14:25 <!-- /TIME LEFT --> ✨
+## Today's Question (Current time: <!-- TIME --> 2024-09-13 10:35 @ Toronto <!-- /TIME -->)
+⏰ **Time left for submitting daily challenges:** ⌛️<!-- TIME LEFT --> 13:24 <!-- /TIME LEFT --> ✨
 ### 🖥️ Problem list
 - [208. Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/description/)
 - [142. Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/description/)
