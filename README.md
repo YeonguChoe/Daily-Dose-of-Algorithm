@@ -17,7 +17,8 @@
 ## Today's Question (Current time: <!-- TIME --> 2024-09-23 12:41 @ Toronto <!-- /TIME -->)
 ⏰ **Time left for submitting daily challenges:** ⌛️<!-- TIME LEFT --> 11:18 <!-- /TIME LEFT --> ✨
 ### 🖥️ Problem list
-
+- [322. Coin Change](https://leetcode.com/problems/coin-change/description/)
+- [746. Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs)
 
 ## Previous Questions
 
@@ -97,31 +98,30 @@
 | 169        | [Majority Element](https://leetcode.com/problems/majority-element/description)                                                                              |
 | 13         | [Roman to Integer](https://leetcode.com/problems/roman-to-integer/description)                                                                              |
 | 26         | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/description)                                        |
-| 1376       | [1376. Time Needed to Inform All Employees](https://leetcode.com/problems/time-needed-to-inform-all-employees/description)                                  |
-| 1129       | [1129. Shortest Path with Alternating Colors](https://leetcode.com/problems/shortest-path-with-alternating-colors/description)                              |
-| 841        | [841. Keys and Rooms](https://leetcode.com/problems/keys-and-rooms/description/)                                                                            |
-| 1091       | [1091. Shortest Path in Binary Matrix](https://leetcode.com/problems/shortest-path-in-binary-matrix/)                                                       |
-| 560        | [560. Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/)                                                                          |
-| 981        | [981. Time Based Key-Value Store](https://leetcode.com/problems/time-based-key-value-store/)                                                                |
-| 743        | [743. Network Delay Time](https://leetcode.com/problems/network-delay-time/description/)                                                                    |
-| 682        | [682. Baseball Game](https://leetcode.com/problems/baseball-game/description/)                                                                              |
-| 523        | [523. Continuous Subarray Sum](https://leetcode.com/problems/continuous-subarray-sum/description/)                                                          |
+| 1376       | [Time Needed to Inform All Employees](https://leetcode.com/problems/time-needed-to-inform-all-employees/description)                                        |
+| 1129       | [Shortest Path with Alternating Colors](https://leetcode.com/problems/shortest-path-with-alternating-colors/description)                                    |
+| 841        | [Keys and Rooms](https://leetcode.com/problems/keys-and-rooms/description/)                                                                                 |
+| 1091       | [Shortest Path in Binary Matrix](https://leetcode.com/problems/shortest-path-in-binary-matrix/)                                                             |
+| 560        | [Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/)                                                                               |
+| 981        | [Time Based Key-Value Store](https://leetcode.com/problems/time-based-key-value-store/)                                                                     |
+| 743        | [Network Delay Time](https://leetcode.com/problems/network-delay-time/description/)                                                                         |
+| 682        | [Baseball Game](https://leetcode.com/problems/baseball-game/description/)                                                                                   |
+| 523        | [Continuous Subarray Sum](https://leetcode.com/problems/continuous-subarray-sum/description/)                                                               |
 | 605        | [Can Place Flowers](https://leetcode.com/problems/can-place-flowers/description/)                                                                           |
 | 27         | [Remove Element](https://leetcode.com/problems/remove-element/description/)                                                                                 |
 | 724        | [Find Pivot Index](https://leetcode.com/problems/find-pivot-index/description/)                                                                             |
 | 785        | [Is Graph Bipartite?](https://leetcode.com/problems/is-graph-bipartite/description/)                                                                        |
 | 934        | [Shortest Bridge](https://leetcode.com/problems/shortest-bridge/description)                                                                                |
-|1926        | [Nearest Exit from Entrance in Maze](https://leetcode.com/problems/nearest-exit-from-entrance-in-maze/description)                                          |
+| 1926       | [Nearest Exit from Entrance in Maze](https://leetcode.com/problems/nearest-exit-from-entrance-in-maze/description)                                          |
 | 417        | [Pacific Atlantic Water Flow](https://leetcode.com/problems/pacific-atlantic-water-flow/description/)                                                       |
 | 139        | [Word Break](https://leetcode.com/problems/word-break/description/)                                                                                         |
-|19|[Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/description/)                                                        |
-|39|[Combination Sum](https://leetcode.com/problems/combination-sum/description/)                                                                                          |
+| 19         | [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/description/)                                             |
+| 39         | [Combination Sum](https://leetcode.com/problems/combination-sum/description/)                                                                               |
 | 2028       | [Find Missing Observations](https://leetcode.com/problems/find-missing-observations/description)                                                            |
 | 721        | [Accounts Merge](https://leetcode.com/problems/accounts-merge/description)                                                                                  |
 | 130        | [Surrounded Regions](https://leetcode.com/problems/surrounded-regions/description/)                                                                         |
 | 392        | [Is Subsequence](https://leetcode.com/problems/is-subsequence/description/)                                                                                 |
 | 33         | [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/description/)                                                 |
 | 211        | [Design Add and Search Words Data Structure](https://leetcode.com/problems/design-add-and-search-words-data-structure/description/)                         |
-|208|[Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/description/)|
-|142|[Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/description/)|
-|||
+| 208        | [Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/description/)                                                       |
+| 142        | [Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/description/)                                                                     |
