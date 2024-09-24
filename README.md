@@ -14,8 +14,8 @@
 > [!IMPORTANT]
 > Posting your code is not mandatory. But feel free to post solution with comments on your folder, so that you can review your code. **So, Files you can modify is `README.md` and `files in your folder`, only.**
 
-## Today's Question (Current time: <!-- TIME --> 2024-09-23 21:57 @ Toronto <!-- /TIME -->)
-⏰ **Time left for submitting daily challenges:** ⌛️<!-- TIME LEFT --> 02:03 <!-- /TIME LEFT --> ✨
+## Today's Question (Current time: <!-- TIME --> 2024-09-23 23:00 @ Toronto <!-- /TIME -->)
+⏰ **Time left for submitting daily challenges:** ⌛️<!-- TIME LEFT --> 00:59 <!-- /TIME LEFT --> ✨
 ### 🖥️ Problem list
 - [322. Coin Change](https://leetcode.com/problems/coin-change/description/)
 - [746. Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs)
