@@ -14,8 +14,8 @@
 > [!IMPORTANT]
 > Posting your code is not mandatory. But feel free to post solution with comments on your folder, so that you can review your code. **So, Files you can modify is `README.md` and `files in your folder`, only.**
 
-## Today's Question (Current time: <!-- TIME --> 2024-09-25 17:33 @ Toronto <!-- /TIME -->)
-⏰ **Time left for submitting daily challenges:** ⌛️<!-- TIME LEFT --> 06:26 <!-- /TIME LEFT --> ✨
+## Today's Question (Current time: <!-- TIME --> 2024-09-25 18:36 @ Toronto <!-- /TIME -->)
+⏰ **Time left for submitting daily challenges:** ⌛️<!-- TIME LEFT --> 05:23 <!-- /TIME LEFT --> ✨
 ### 🖥️ Problem list
 - [91. Decode Ways](https://leetcode.com/problems/decode-ways/description/)
 - [74. Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/description/)
