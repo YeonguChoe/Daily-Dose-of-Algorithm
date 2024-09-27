@@ -17,8 +17,8 @@
 ## Today's Question (Current time: <!-- TIME --> 2024-09-26 19:34 @ Toronto <!-- /TIME -->)
 ⏰ **Time left for submitting daily challenges:** ⌛️<!-- TIME LEFT --> 04:25 <!-- /TIME LEFT --> ✨
 ### 🖥️ Problem list
-- [91. Decode Ways](https://leetcode.com/problems/decode-ways/description/)
-- [74. Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/description/)
+- [100. Same Tree](https://leetcode.com/problems/same-tree/description/)
+- [102. Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/description/)
 
 ## Previous Questions
 
@@ -127,3 +127,5 @@
 | 142        | [Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/description/)                                                                     |
 | 322        | [Coin Change](https://leetcode.com/problems/coin-change/description/)                                                                                       |
 | 746        | [Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs)                                                                          |
+| 91         | [Decode Ways](https://leetcode.com/problems/decode-ways/description/)                                                                                       |
+| 74         | [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/description/)                                                                         |
