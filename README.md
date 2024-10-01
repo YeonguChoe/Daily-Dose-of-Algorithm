@@ -14,8 +14,8 @@
 > [!IMPORTANT]
 > Posting your code is not mandatory. But feel free to post solution with comments on your folder, so that you can review your code. **So, Files you can modify is `README.md` and `files in your folder`, only.**
 
-## Today's Question (Current time: <!-- TIME --> 2024-09-30 23:08 @ Toronto <!-- /TIME -->)
-⏰ **Time left for submitting daily challenges:** ⌛️<!-- TIME LEFT --> 00:51 <!-- /TIME LEFT --> ✨
+## Today's Question (Current time: <!-- TIME --> 2024-09-30 23:45 @ Toronto <!-- /TIME -->)
+⏰ **Time left for submitting daily challenges:** ⌛️<!-- TIME LEFT --> 00:14 <!-- /TIME LEFT --> ✨
 ### 🖥️ Problem list
 - [100. Same Tree](https://leetcode.com/problems/same-tree/description/)
 - [102. Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/description/)
